@@ -1,0 +1,1001 @@
+airline,flight_number,departure_airport,arrival_airport,departure_iata,arrival_iata,departure_time,arrival_time,status
+Hainan Airlines,7082,Beijing Capital International,Haikou,PEK,HAK,2025-07-30 19:00:00+00:00,2025-07-30 22:45:00+00:00,scheduled
+Air China LTD,1379,Beijing Capital International,Guangzhou Baiyun International,PEK,CAN,2025-07-30 19:00:00+00:00,2025-07-30 22:20:00+00:00,scheduled
+Hainan Airlines,7567,Beijing Capital International,Chongqing Jiangbei International,PEK,CKG,2025-07-30 18:55:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+Air China LTD,709,Beijing Capital International,Seoul (Incheon),PEK,ICN,2025-07-30 18:50:00+00:00,2025-07-30 21:45:00+00:00,scheduled
+Air China LTD,1907,Beijing Capital International,Zhuhai Airport,PEK,ZUH,2025-07-30 18:45:00+00:00,2025-07-30 22:00:00+00:00,scheduled
+Air China LTD,1449,Beijing Capital International,Chongqing Jiangbei International,PEK,CKG,2025-07-30 18:45:00+00:00,2025-07-30 22:00:00+00:00,scheduled
+Sichuan Airlines,8832,Beijing Capital International,Chongqing Jiangbei International,PEK,CKG,2025-07-30 18:45:00+00:00,2025-07-30 21:30:00+00:00,scheduled
+Cathay Pacific,393,Beijing Capital International,Hong Kong International,PEK,HKG,2025-07-30 18:40:00+00:00,2025-07-30 22:25:00+00:00,scheduled
+China Eastern Airlines,5162,Beijing Capital International,Shanghai Hongqiao International,PEK,SHA,2025-07-30 18:30:00+00:00,2025-07-30 20:40:00+00:00,cancelled
+Korean Air,860,Beijing Capital International,Seoul (Incheon),PEK,ICN,2025-07-30 18:30:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+Air China LTD,4104,Beijing Capital International,Shuangliu,PEK,CTU,2025-07-30 18:30:00+00:00,2025-07-30 21:30:00+00:00,scheduled
+Air China LTD,1953,Beijing Capital International,Dayong,PEK,DYG,2025-07-30 18:30:00+00:00,2025-07-30 21:00:00+00:00,scheduled
+Air China LTD,1859,Beijing Capital International,Fuzhou,PEK,FOC,2025-07-30 18:30:00+00:00,2025-07-30 21:15:00+00:00,scheduled
+Air China LTD,1726,Beijing Capital International,Hangzhou,PEK,HGH,2025-07-30 18:30:00+00:00,2025-07-30 20:45:00+00:00,scheduled
+Air China LTD,1635,Beijing Capital International,Shenyang,PEK,SHE,2025-07-30 18:30:00+00:00,2025-07-30 20:05:00+00:00,scheduled
+Air China LTD,1581,Beijing Capital International,Nanchang,PEK,KHN,2025-07-30 18:30:00+00:00,2025-07-30 20:50:00+00:00,scheduled
+Air China LTD,1571,Beijing Capital International,Qingdao,PEK,TAO,2025-07-30 18:30:00+00:00,2025-07-30 20:05:00+00:00,scheduled
+Air China LTD,1443,Beijing Capital International,Guiyang,PEK,KWE,2025-07-30 18:30:00+00:00,2025-07-30 21:35:00+00:00,scheduled
+Air China LTD,1261,Beijing Capital International,Xining,PEK,XNN,2025-07-30 18:30:00+00:00,2025-07-30 20:50:00+00:00,scheduled
+Air China LTD,1455,Beijing Capital International,Mian Yang,PEK,MIG,2025-07-30 18:20:00+00:00,2025-07-30 21:00:00+00:00,scheduled
+Air China LTD,1263,Beijing Capital International,Yinchuan,PEK,INC,2025-07-30 18:15:00+00:00,2025-07-30 20:10:00+00:00,scheduled
+ANA,282,Tokushima,Haneda Airport,TKS,HND,2025-07-30 10:55:00+00:00,2025-07-30 12:10:00+00:00,landed
+SAS,1041,Kiruna,Arlanda,KRN,ARN,2025-07-30 10:45:00+00:00,2025-07-30 12:20:00+00:00,scheduled
+KLM,8635,Kiruna,Arlanda,KRN,ARN,2025-07-30 10:45:00+00:00,2025-07-30 12:20:00+00:00,scheduled
+China Eastern Airlines,6701,Taiyuan,Hangzhou,TYN,HGH,2025-07-30 20:00:00+00:00,2025-07-30 21:55:00+00:00,cancelled
+Etihad Airways,3992,Kiruna,Arlanda,KRN,ARN,2025-07-30 10:45:00+00:00,2025-07-30 12:20:00+00:00,scheduled
+Xiamen Airlines,8156,Taiyuan,Fuzhou,TYN,FOC,2025-07-30 20:00:00+00:00,2025-07-30 22:30:00+00:00,scheduled
+China Southern Airlines,3696,Taiyuan,Guangzhou Baiyun International,TYN,CAN,2025-07-30 19:55:00+00:00,2025-07-30 22:45:00+00:00,scheduled
+China Eastern Airlines,6995,Taiyuan,Chongqing Jiangbei International,TYN,CKG,2025-07-30 19:55:00+00:00,2025-07-30 22:05:00+00:00,scheduled
+Ruili Airlines,6556,Taiyuan,Kunming,TYN,KMG,2025-07-30 19:55:00+00:00,2025-07-30 22:45:00+00:00,scheduled
+China Eastern Airlines,6396,Taiyuan,Chengdu Tianfu International Airport,TYN,TFU,2025-07-30 19:45:00+00:00,2025-07-30 21:50:00+00:00,scheduled
+Shandong Airlines,2268,Taiyuan,Chongqing Jiangbei International,TYN,CKG,2025-07-30 19:35:00+00:00,2025-07-30 21:35:00+00:00,scheduled
+Xiamen Airlines,8174,Taiyuan,Hangzhou,TYN,HGH,2025-07-30 19:35:00+00:00,2025-07-30 22:00:00+00:00,scheduled
+Air China LTD,8358,Taiyuan,Wenzhou,TYN,WNZ,2025-07-30 19:30:00+00:00,2025-07-30 22:15:00+00:00,scheduled
+Sichuan Airlines,3244,Taiyuan,Fenghuang International (Phoenix International),TYN,SYX,2025-07-30 19:15:00+00:00,2025-07-30 22:40:00+00:00,scheduled
+China Eastern Airlines,9879,Taiyuan,Guangzhou Baiyun International,TYN,CAN,2025-07-30 19:10:00+00:00,2025-07-30 22:00:00+00:00,scheduled
+Shandong Airlines,4924,Taiyuan,Qingdao,TYN,TAO,2025-07-30 19:05:00+00:00,2025-07-30 20:55:00+00:00,scheduled
+China Eastern Airlines,2410,Taiyuan,Shanghai Hongqiao International,TYN,SHA,2025-07-30 19:00:00+00:00,2025-07-30 21:15:00+00:00,cancelled
+Shenzhen Airlines,8742,Taiyuan,Shanghai,TYN,HFE,2025-07-30 19:00:00+00:00,2025-07-30 20:35:00+00:00,scheduled
+Shandong Airlines,9762,Taiyuan,Shanghai,TYN,HFE,2025-07-30 19:00:00+00:00,2025-07-30 20:35:00+00:00,scheduled
+Kunming Airlines,3188,Taiyuan,Kunming,TYN,KMG,2025-07-30 19:00:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+Shenzhen Airlines,3188,Taiyuan,Kunming,TYN,KMG,2025-07-30 19:00:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+Tibet Airlines,8188,Taiyuan,Kunming,TYN,KMG,2025-07-30 19:00:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+Air China LTD,5848,Taiyuan,Kunming,TYN,KMG,2025-07-30 19:00:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+China Eastern Airlines,5669,Taiyuan,Qingdao,TYN,TAO,2025-07-30 18:55:00+00:00,2025-07-30 21:05:00+00:00,scheduled
+Xiamen Airlines,3911,Taiyuan,Qingdao,TYN,TAO,2025-07-30 18:55:00+00:00,2025-07-30 21:05:00+00:00,scheduled
+Shandong Airlines,2228,Taiyuan,Shiyan Wudangshan Airport,TYN,WDS,2025-07-30 18:50:00+00:00,2025-07-30 20:20:00+00:00,scheduled
+China Express Air,6498,Taiyuan,Shiyan Wudangshan Airport,TYN,WDS,2025-07-30 18:50:00+00:00,2025-07-30 20:20:00+00:00,scheduled
+Tibet Airlines,3106,Taiyuan,Shiyan Wudangshan Airport,TYN,WDS,2025-07-30 18:50:00+00:00,2025-07-30 20:20:00+00:00,scheduled
+Air China LTD,4700,Taiyuan,Shiyan Wudangshan Airport,TYN,WDS,2025-07-30 18:50:00+00:00,2025-07-30 20:20:00+00:00,scheduled
+Shenzhen Airlines,2604,Taiyuan,Shiyan Wudangshan Airport,TYN,WDS,2025-07-30 18:50:00+00:00,2025-07-30 20:20:00+00:00,scheduled
+China Eastern Airlines,5145,Taiyuan,Kunming,TYN,KMG,2025-07-30 18:35:00+00:00,2025-07-30 21:30:00+00:00,scheduled
+Xiamen Airlines,3558,Taiyuan,Kunming,TYN,KMG,2025-07-30 18:35:00+00:00,2025-07-30 21:30:00+00:00,scheduled
+China Express Air,6845,Taiyuan,Kunming,TYN,KMG,2025-07-30 18:35:00+00:00,2025-07-30 21:30:00+00:00,scheduled
+China Express Air,4112,Korla,Aksu,KRL,AKU,2025-07-30 11:50:00+00:00,2025-07-30 13:00:00+00:00,cancelled
+Shandong Airlines,3566,Korla,Aksu,KRL,AKU,2025-07-30 11:50:00+00:00,2025-07-30 13:00:00+00:00,cancelled
+Xiamen Airlines,5716,Xuzhou,Changchun,XUZ,CGQ,2025-07-30 09:20:00+00:00,2025-07-30 11:50:00+00:00,active
+Tibet Airlines,2317,Xuzhou,Changchun,XUZ,CGQ,2025-07-30 09:20:00+00:00,2025-07-30 11:50:00+00:00,active
+Chengdu Airlines,7411,Xuzhou,Changchun,XUZ,CGQ,2025-07-30 09:20:00+00:00,2025-07-30 11:50:00+00:00,active
+China Southern Airlines,6282,Xuzhou,Guangzhou Baiyun International,XUZ,CAN,2025-07-30 06:30:00+00:00,2025-07-30 09:00:00+00:00,active
+SATA Air Acores,1406,Nordela (São Miguel Island),Lajes Ab,PDL,TER,2025-07-30 11:50:00+00:00,2025-07-30 12:30:00+00:00,scheduled
+SATA Air Acores,576,Nordela (São Miguel Island),Horta,PDL,HOR,2025-07-30 11:30:00+00:00,2025-07-30 12:30:00+00:00,scheduled
+United Airlines,217,Nordela (São Miguel Island),Newark Liberty International,PDL,EWR,2025-07-30 11:00:00+00:00,2025-07-30 13:15:00+00:00,scheduled
+Brussels Airlines,8948,Nordela (São Miguel Island),Newark Liberty International,PDL,EWR,2025-07-30 11:00:00+00:00,2025-07-30 13:15:00+00:00,scheduled
+Lufthansa,9210,Nordela (São Miguel Island),Newark Liberty International,PDL,EWR,2025-07-30 11:00:00+00:00,2025-07-30 13:15:00+00:00,scheduled
+Universal Air,434,Nordela (São Miguel Island),Pico Island,PDL,PIX,2025-07-30 10:50:00+00:00,2025-07-30 11:45:00+00:00,scheduled
+TAP Air Portugal,1860,Nordela (São Miguel Island),Lisbon Portela,PDL,LIS,2025-07-30 10:45:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Turkish Airlines,8137,Nordela (São Miguel Island),Lisbon Portela,PDL,LIS,2025-07-30 10:45:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Azores Airlines,8272,Nordela (São Miguel Island),Lisbon Portela,PDL,LIS,2025-07-30 10:45:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Lufthansa,6983,Nordela (São Miguel Island),Lisbon Portela,PDL,LIS,2025-07-30 10:45:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Air Baltic,5347,Nordela (São Miguel Island),Lisbon Portela,PDL,LIS,2025-07-30 10:45:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+JetBlue Airways,6723,Nordela (São Miguel Island),Lisbon Portela,PDL,LIS,2025-07-30 10:45:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Finnair,6766,Nordela (São Miguel Island),Lisbon Portela,PDL,LIS,2025-07-30 10:45:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Azul,7488,Nordela (São Miguel Island),Lisbon Portela,PDL,LIS,2025-07-30 10:45:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Iberia,554,Nordela (São Miguel Island),Barajas,PDL,MAD,2025-07-30 10:45:00+00:00,2025-07-30 15:45:00+00:00,scheduled
+Fuji Dream Airlines,353,Komaki AFB,Hanamaki,NKM,HNA,2025-07-30 12:10:00+00:00,2025-07-30 13:20:00+00:00,landed
+Japan Airlines,4453,Komaki AFB,Hanamaki,NKM,HNA,2025-07-30 12:10:00+00:00,2025-07-30 13:20:00+00:00,landed
+Japan Airlines,2183,Itami,Hanamaki,ITM,HNA,2025-07-30 11:25:00+00:00,2025-07-30 12:45:00+00:00,landed
+Japan Airlines,2831,Chitose,Hanamaki,CTS,HNA,2025-07-30 10:10:00+00:00,2025-07-30 11:05:00+00:00,scheduled
+Spring Airlines Japan,102,Lishe International Airport,Narita International Airport,NGB,NRT,2025-07-30 16:10:00+00:00,2025-07-30 20:25:00+00:00,scheduled
+China Eastern Airlines,5868,Lishe International Airport,Chengdu Tianfu International Airport,NGB,TFU,2025-07-30 16:10:00+00:00,2025-07-30 19:05:00+00:00,scheduled
+Sichuan Airlines,5332,Lishe International Airport,Chengdu Tianfu International Airport,NGB,TFU,2025-07-30 16:10:00+00:00,2025-07-30 19:05:00+00:00,scheduled
+China United Airlines,6307,Lishe International Airport,Chengdu Tianfu International Airport,NGB,TFU,2025-07-30 16:10:00+00:00,2025-07-30 19:05:00+00:00,scheduled
+China United Airlines,5992,Lishe International Airport,Beijing Daxing International Airport,NGB,PKX,2025-07-30 16:05:00+00:00,2025-07-30 18:30:00+00:00,cancelled
+China Eastern Airlines,8223,Lishe International Airport,Beijing Daxing International Airport,NGB,PKX,2025-07-30 16:05:00+00:00,2025-07-30 18:30:00+00:00,cancelled
+Hainan Airlines,7688,Lishe International Airport,Haikou,NGB,HAK,2025-07-30 16:05:00+00:00,2025-07-30 18:55:00+00:00,scheduled
+Loong Air,3730,Lishe International Airport,Haikou,NGB,HAK,2025-07-30 16:05:00+00:00,2025-07-30 18:55:00+00:00,scheduled
+Belavia,715,Minsk National 2,Kopitnari,MSQ,KUT,2025-07-30 09:40:00+00:00,2025-07-30 14:35:00+00:00,scheduled
+Japan Airlines,2606,Matsumoto,Kobe,MMJ,UKB,2025-07-30 18:15:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+Skymark Airlines,113,Haneda Airport,Kobe,HND,UKB,2025-07-30 17:55:00+00:00,2025-07-30 19:10:00+00:00,scheduled
+Skymark Airlines,174,Chitose,Kobe,CTS,UKB,2025-07-30 16:45:00+00:00,2025-07-30 18:40:00+00:00,scheduled
+Shenzhen Airlines,1557,Beijing Capital International,Shanghai Hongqiao International,PEK,SHA,2025-07-30 11:25:00+00:00,2025-07-30 13:50:00+00:00,cancelled
+Shandong Airlines,5404,Beijing Capital International,Shanghai Hongqiao International,PEK,SHA,2025-07-30 11:25:00+00:00,2025-07-30 13:50:00+00:00,cancelled
+Juneyao Airlines,5744,Beijing Capital International,Shanghai Hongqiao International,PEK,SHA,2025-07-30 11:25:00+00:00,2025-07-30 13:50:00+00:00,cancelled
+Juneyao Airlines,1218,Xianyang,Shanghai Hongqiao International,XIY,SHA,2025-07-30 11:30:00+00:00,2025-07-30 13:45:00+00:00,scheduled
+Shenzhen Airlines,5048,Xianyang,Shanghai Hongqiao International,XIY,SHA,2025-07-30 11:30:00+00:00,2025-07-30 13:45:00+00:00,scheduled
+China Eastern Airlines,3647,Xianyang,Shanghai Hongqiao International,XIY,SHA,2025-07-30 11:30:00+00:00,2025-07-30 13:45:00+00:00,scheduled
+Volotea,2514,Entzheim,Marseille Provence Airport,SXB,MRS,2025-07-30 08:30:00+00:00,2025-07-30 09:55:00+00:00,scheduled
+Helvetic Airways,585,Marseille Provence Airport,Zurich,MRS,ZRH,2025-07-30 09:20:00+00:00,2025-07-30 10:45:00+00:00,scheduled
+China Eastern Airlines,3393,Chongqing Jiangbei International,Harbin,CKG,HRB,2025-07-30 08:05:00+00:00,2025-07-30 11:30:00+00:00,landed
+China Express Air,6399,Harbin,Xuzhou,HRB,XUZ,2025-07-30 09:25:00+00:00,2025-07-30 12:05:00+00:00,active
+Xiamen Airlines,5822,Harbin,Xuzhou,HRB,XUZ,2025-07-30 09:25:00+00:00,2025-07-30 12:05:00+00:00,active
+Tibet Airlines,2423,Harbin,Xuzhou,HRB,XUZ,2025-07-30 09:25:00+00:00,2025-07-30 12:05:00+00:00,active
+Chengdu Airlines,7517,Harbin,Xuzhou,HRB,XUZ,2025-07-30 09:25:00+00:00,2025-07-30 12:05:00+00:00,active
+Shenzhen Airlines,9755,Harbin,Taizhou,HRB,YTY,2025-07-30 09:20:00+00:00,2025-07-30 12:15:00+00:00,active
+Shandong Airlines,9297,Harbin,Taizhou,HRB,YTY,2025-07-30 09:20:00+00:00,2025-07-30 12:15:00+00:00,active
+Air China LTD,7965,Harbin,Taizhou,HRB,YTY,2025-07-30 09:20:00+00:00,2025-07-30 12:15:00+00:00,active
+Chengdu Airlines,1895,Harbin,,HRB,JGD,2025-07-30 09:20:00+00:00,2025-07-30 10:30:00+00:00,active
+Tibet Airlines,5055,Harbin,,HRB,JGD,2025-07-30 09:20:00+00:00,2025-07-30 10:30:00+00:00,active
+Loong Air,5296,Harbin,,HRB,JGD,2025-07-30 09:20:00+00:00,2025-07-30 10:30:00+00:00,active
+China Southern Airlines,7053,Harbin,,HRB,JGD,2025-07-30 09:20:00+00:00,2025-07-30 10:30:00+00:00,active
+Sichuan Airlines,5633,Harbin,,HRB,JGD,2025-07-30 09:20:00+00:00,2025-07-30 10:30:00+00:00,active
+Hainan Airlines,7068,Harbin,Tianhe International,HRB,WUH,2025-07-30 09:15:00+00:00,2025-07-30 12:30:00+00:00,active
+Hong Kong Airlines,1338,Harbin,Tianhe International,HRB,WUH,2025-07-30 09:15:00+00:00,2025-07-30 12:30:00+00:00,active
+Loong Air,3644,Harbin,Tianhe International,HRB,WUH,2025-07-30 09:15:00+00:00,2025-07-30 12:30:00+00:00,active
+Sichuan Airlines,3317,Harbin,Weihai,HRB,WEH,2025-07-30 09:10:00+00:00,2025-07-30 11:00:00+00:00,active
+Xiamen Airlines,5115,Harbin,Weihai,HRB,WEH,2025-07-30 09:10:00+00:00,2025-07-30 11:00:00+00:00,active
+China Express Air,8649,Harbin,Weihai,HRB,WEH,2025-07-30 09:10:00+00:00,2025-07-30 11:00:00+00:00,active
+Chengdu Airlines,7039,Harbin,Weihai,HRB,WEH,2025-07-30 09:10:00+00:00,2025-07-30 11:00:00+00:00,active
+Aero Contractors,111,Nnamdi Azikiwe International Airport,Yola,ABV,YOL,2025-07-30 11:50:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Ibom Air,533,Nnamdi Azikiwe International Airport,Port Harcourt,ABV,PHC,2025-07-30 11:30:00+00:00,2025-07-30 12:45:00+00:00,scheduled
+Ibom Air,593,Nnamdi Azikiwe International Airport,Enugu,ABV,ENU,2025-07-30 11:05:00+00:00,2025-07-30 11:55:00+00:00,scheduled
+Air Cote D'Ivoire,807,Nnamdi Azikiwe International Airport,Felix Houphouet Boigny,ABV,ABJ,2025-07-30 11:05:00+00:00,2025-07-30 12:15:00+00:00,scheduled
+Nomad Aviation,5004,Nnamdi Azikiwe International Airport,Benin City,ABV,BNI,2025-07-30 11:00:00+00:00,2025-07-30 11:45:00+00:00,scheduled
+ValueJet,207,Nnamdi Azikiwe International Airport,Murtala Muhammed,ABV,LOS,2025-07-30 10:50:00+00:00,2025-07-30 12:05:00+00:00,scheduled
+Overland Airways,1195,Nnamdi Azikiwe International Airport,Lawanti,ABV,GMO,2025-07-30 10:50:00+00:00,2025-07-30 11:40:00+00:00,scheduled
+ValueJet,354,Nnamdi Azikiwe International Airport,Jos,ABV,JOS,2025-07-30 10:45:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+United Nigeria Airlines,576,Nnamdi Azikiwe International Airport,Sokoto,ABV,SKO,2025-07-30 10:40:00+00:00,2025-07-30 11:50:00+00:00,scheduled
+Rano Air,2020,Nnamdi Azikiwe International Airport,Maiduguri,ABV,MIU,2025-07-30 10:40:00+00:00,2025-07-30 12:10:00+00:00,scheduled
+UmzaXpress,425,Nnamdi Azikiwe International Airport,Aminu Kano International Airport,ABV,KAN,2025-07-30 10:40:00+00:00,2025-07-30 11:40:00+00:00,scheduled
+Air Peace,7152,Nnamdi Azikiwe International Airport,Sam Mbakwe International,ABV,QOW,2025-07-30 10:40:00+00:00,2025-07-30 11:50:00+00:00,scheduled
+Air Peace,7444,Nnamdi Azikiwe International Airport,Maiduguri,ABV,MIU,2025-07-30 10:40:00+00:00,2025-07-30 12:20:00+00:00,scheduled
+Arik Air,760,Nnamdi Azikiwe International Airport,Port Harcourt,ABV,PHC,2025-07-30 10:30:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Overland Airways,1198,Nnamdi Azikiwe International Airport,Akure,ABV,AKR,2025-07-30 10:30:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+UTair Aviation,139,Surgut,Omsk,SGC,OMS,2025-07-30 12:50:00+00:00,2025-07-30 15:35:00+00:00,scheduled
+Paranair,845,Carrasco International,Silvio Pettirossi,MVD,ASU,2025-07-30 08:50:00+00:00,2025-07-30 10:40:00+00:00,scheduled
+euroairlines,8045,Carrasco International,Silvio Pettirossi,MVD,ASU,2025-07-30 08:50:00+00:00,2025-07-30 10:40:00+00:00,scheduled
+Copa Airlines,369,Carrasco International,Tocumen International,MVD,PTY,2025-07-30 08:01:00+00:00,2025-07-30 13:32:00+00:00,scheduled
+Turkish Airlines,9232,Carrasco International,Tocumen International,MVD,PTY,2025-07-30 08:01:00+00:00,2025-07-30 13:32:00+00:00,scheduled
+KLM,3055,Carrasco International,Tocumen International,MVD,PTY,2025-07-30 08:01:00+00:00,2025-07-30 13:32:00+00:00,scheduled
+Air France,5527,Carrasco International,Tocumen International,MVD,PTY,2025-07-30 08:01:00+00:00,2025-07-30 13:32:00+00:00,scheduled
+Aerolineas Argentinas,1383,Carrasco International,Aeroparque Jorge Newbery,MVD,AEP,2025-07-30 07:40:00+00:00,2025-07-30 08:35:00+00:00,scheduled
+LATAM Airlines,2421,Carrasco International,Jorge Chavez International,MVD,LIM,2025-07-30 07:25:00+00:00,2025-07-30 10:30:00+00:00,scheduled
+Delta Air Lines,7375,Carrasco International,Jorge Chavez International,MVD,LIM,2025-07-30 07:25:00+00:00,2025-07-30 10:30:00+00:00,scheduled
+Delta Air Lines,7356,Carrasco International,Jorge Chavez International,MVD,LIM,2025-07-30 07:25:00+00:00,2025-07-30 10:30:00+00:00,scheduled
+Jiangxi Airlines,2073,Daguocun,Guiyang,SJW,KWE,2025-07-30 15:15:00+00:00,2025-07-30 17:55:00+00:00,scheduled
+Shenzhen Airlines,1253,Beijing Capital International,Urumqi,PEK,URC,2025-07-30 11:25:00+00:00,2025-07-30 15:45:00+00:00,active
+Shandong Airlines,5001,Beijing Capital International,Urumqi,PEK,URC,2025-07-30 11:25:00+00:00,2025-07-30 15:45:00+00:00,active
+Lufthansa,2199,Bremen,Franz Josef Strauss,BRE,MUC,2025-07-30 06:15:00+00:00,2025-07-30 07:30:00+00:00,landed
+Helvetic Airways,1109,Franz Josef Strauss,Zurich,MUC,ZRH,2025-07-30 07:40:00+00:00,2025-07-30 08:40:00+00:00,active
+Lufthansa,5762,Franz Josef Strauss,Zurich,MUC,ZRH,2025-07-30 07:40:00+00:00,2025-07-30 08:40:00+00:00,active
+Lufthansa,2246,Franz Josef Strauss,St-Exupéry,MUC,LYS,2025-07-30 07:35:00+00:00,2025-07-30 08:50:00+00:00,active
+empty,,Franz Josef Strauss,Essen,MUC,ESS,2025-07-30 07:30:00+00:00,2025-07-30 09:18:00+00:00,active
+Aeroways,,Franz Josef Strauss,Dortmund,MUC,DTM,2025-07-30 07:30:00+00:00,2025-07-30 08:43:00+00:00,active
+Lufthansa,2188,Franz Josef Strauss,Bremen,MUC,BRE,2025-07-30 07:30:00+00:00,2025-07-30 08:40:00+00:00,active
+Lufthansa,2004,Franz Josef Strauss,Düsseldorf International Airport,MUC,DUS,2025-07-30 07:30:00+00:00,2025-07-30 08:40:00+00:00,active
+Lufthansa,1620,Franz Josef Strauss,John Paul II Balice International,MUC,KRK,2025-07-30 07:30:00+00:00,2025-07-30 08:50:00+00:00,active
+LOT - Polish Airlines,4968,Franz Josef Strauss,John Paul II Balice International,MUC,KRK,2025-07-30 07:30:00+00:00,2025-07-30 08:50:00+00:00,active
+Iberia,1316,Franz Josef Strauss,Barajas,MUC,MAD,2025-07-30 07:30:00+00:00,2025-07-30 10:20:00+00:00,active
+Vueling,5263,Franz Josef Strauss,Barajas,MUC,MAD,2025-07-30 07:30:00+00:00,2025-07-30 10:20:00+00:00,active
+American Airlines,8772,Franz Josef Strauss,Barajas,MUC,MAD,2025-07-30 07:30:00+00:00,2025-07-30 10:20:00+00:00,active
+British Airways,947,Franz Josef Strauss,Heathrow,MUC,LHR,2025-07-30 07:25:00+00:00,2025-07-30 08:35:00+00:00,active
+Qatar Airways,5960,Franz Josef Strauss,Heathrow,MUC,LHR,2025-07-30 07:25:00+00:00,2025-07-30 08:35:00+00:00,active
+Japan Airlines,7796,Franz Josef Strauss,Heathrow,MUC,LHR,2025-07-30 07:25:00+00:00,2025-07-30 08:35:00+00:00,active
+Cathay Pacific,7166,Franz Josef Strauss,Heathrow,MUC,LHR,2025-07-30 07:25:00+00:00,2025-07-30 08:35:00+00:00,active
+JetBlue Airways,6273,Franz Josef Strauss,Heathrow,MUC,LHR,2025-07-30 07:25:00+00:00,2025-07-30 08:35:00+00:00,active
+American Airlines,7201,Franz Josef Strauss,Heathrow,MUC,LHR,2025-07-30 07:25:00+00:00,2025-07-30 08:35:00+00:00,active
+Discover Airlines,704,Franz Josef Strauss,Madeira,MUC,FNC,2025-07-30 07:20:00+00:00,2025-07-30 10:30:00+00:00,active
+Oman Air,5577,Kuala Lumpur International Airport (klia),Sydney Kingsford Smith Airport,KUL,SYD,2025-07-30 09:10:00+00:00,2025-07-30 19:35:00+00:00,active
+SriLankan Airlines,2341,Kuala Lumpur International Airport (klia),Sydney Kingsford Smith Airport,KUL,SYD,2025-07-30 09:10:00+00:00,2025-07-30 19:35:00+00:00,active
+Turkish Airlines,4863,Kuala Lumpur International Airport (klia),Sydney Kingsford Smith Airport,KUL,SYD,2025-07-30 09:10:00+00:00,2025-07-30 19:35:00+00:00,active
+Saudia,6333,Kuala Lumpur International Airport (klia),Sydney Kingsford Smith Airport,KUL,SYD,2025-07-30 09:10:00+00:00,2025-07-30 19:35:00+00:00,active
+United Airlines,7450,Melbourne - Tullamarine Airport,Adelaide International Airport,MEL,ADL,2025-07-30 09:10:00+00:00,2025-07-30 10:05:00+00:00,landed
+Singapore Airlines,6950,Melbourne - Tullamarine Airport,Adelaide International Airport,MEL,ADL,2025-07-30 09:10:00+00:00,2025-07-30 10:05:00+00:00,landed
+Qatar Airways,4241,Melbourne - Tullamarine Airport,Adelaide International Airport,MEL,ADL,2025-07-30 09:10:00+00:00,2025-07-30 10:05:00+00:00,landed
+SolitAir,431,Coober Pedy,Adelaide International Airport,CPD,ADL,2025-07-30 08:30:00+00:00,2025-07-30 10:04:00+00:00,landed
+Singapore Airlines,5628,Singapore Changi,Kuala Lumpur International Airport (klia),SIN,KUL,2025-07-30 12:15:00+00:00,2025-07-30 13:25:00+00:00,active
+Qatar Airways,5480,Singapore Changi,Kuala Lumpur International Airport (klia),SIN,KUL,2025-07-30 12:15:00+00:00,2025-07-30 13:25:00+00:00,active
+Firefly,7338,Singapore Changi,Kuala Lumpur International Airport (klia),SIN,KUL,2025-07-30 12:15:00+00:00,2025-07-30 13:25:00+00:00,active
+Finnair,6721,Singapore Changi,Kuala Lumpur International Airport (klia),SIN,KUL,2025-07-30 12:15:00+00:00,2025-07-30 13:25:00+00:00,active
+Etihad Airways,627,Abu Dhabi International,Gassim Regional Airport,AUH,ELQ,2025-07-30 07:50:00+00:00,2025-07-30 08:55:00+00:00,active
+PNG Air,1628,Boram,Vanimo,WWK,VAI,2025-07-30 12:50:00+00:00,2025-07-30 13:50:00+00:00,scheduled
+Africa Airlines,102,Pointe-Noire,Maya Maya,PNR,BZV,2025-07-30 10:30:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Air Cote D'Ivoire,835,Pointe-Noire,Felix Houphouet Boigny,PNR,ABJ,2025-07-30 10:30:00+00:00,2025-07-30 12:40:00+00:00,scheduled
+New England Airlines,102,Pointe-Noire,Maya Maya,PNR,BZV,2025-07-30 09:45:00+00:00,2025-07-30 10:40:00+00:00,scheduled
+Canadian Airways Congo,1111,Pointe-Noire,Maya Maya,PNR,BZV,2025-07-30 08:30:00+00:00,2025-07-30 09:15:00+00:00,scheduled
+Turkish Airlines,587,Pointe-Noire,Istanbul Airport,PNR,IST,2025-07-30 01:20:00+00:00,2025-07-30 11:40:00+00:00,active
+empty,,Bairnsdale,Moruya,BSJ,MYA,2025-07-30 13:45:00+00:00,2025-07-30 15:42:00+00:00,active
+AJet,4073,Dalaman,Esenboga International,DLM,ESB,2025-07-30 12:55:00+00:00,2025-07-30 14:10:00+00:00,scheduled
+AJet,4205,Hatay,Esenboga International,HTY,ESB,2025-07-30 12:50:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Turkish Airlines,3004,Sabiha Gokcen,Esenboga International,SAW,ESB,2025-07-30 13:00:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+AJet,4145,Edremit/korfez,Esenboga International,EDO,ESB,2025-07-30 12:35:00+00:00,2025-07-30 13:50:00+00:00,scheduled
+Ryanair,6401,Milano Malpensa,Liberi,MXP,PSR,2025-07-30 08:45:00+00:00,2025-07-30 10:05:00+00:00,scheduled
+Air Dolomiti,8269,Milano Malpensa,Franz Josef Strauss,MXP,MUC,2025-07-30 08:45:00+00:00,2025-07-30 09:55:00+00:00,scheduled
+ANA,6869,Milano Malpensa,Franz Josef Strauss,MXP,MUC,2025-07-30 08:45:00+00:00,2025-07-30 09:55:00+00:00,scheduled
+Lufthansa,9513,Milano Malpensa,Franz Josef Strauss,MXP,MUC,2025-07-30 08:45:00+00:00,2025-07-30 09:55:00+00:00,scheduled
+Gol,1717,Marechal Cunha Machado,Presidente Juscelino Kubitschek,SLZ,BSB,2025-07-30 05:15:00+00:00,2025-07-30 07:45:00+00:00,scheduled
+TAP Air Portugal,5811,Marechal Cunha Machado,Presidente Juscelino Kubitschek,SLZ,BSB,2025-07-30 05:15:00+00:00,2025-07-30 07:45:00+00:00,scheduled
+Jin Air,918,Guam International,Seoul (Incheon),GUM,ICN,2025-07-30 03:40:00+00:00,2025-07-30 07:20:00+00:00,landed
+Azul,3123,Marechal Cunha Machado,Presidente Juscelino Kubitschek,SLZ,BSB,2025-07-30 05:15:00+00:00,2025-07-30 07:45:00+00:00,scheduled
+Japan Airlines,7229,San Luis Potosi,Dallas/Fort Worth International,SLP,DFW,2025-07-30 05:14:00+00:00,2025-07-30 08:39:00+00:00,scheduled
+Air India Express,394,Kuwait International,Kozhikode Airport,KWI,CCJ,2025-07-30 12:55:00+00:00,2025-07-30 20:25:00+00:00,scheduled
+Jazeera Airways,221,Kuwait International,King Khaled International,KWI,RUH,2025-07-30 12:55:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+Jazeera Airways,101,Kuwait International,Bahrain International,KWI,BAH,2025-07-30 12:15:00+00:00,2025-07-30 13:20:00+00:00,scheduled
+Jazeera Airways,213,Kuwait International,King Abdulaziz International,KWI,JED,2025-07-30 12:15:00+00:00,2025-07-30 14:40:00+00:00,scheduled
+Saudia,505,Kuwait International,King Abdulaziz International,KWI,JED,2025-07-30 12:05:00+00:00,2025-07-30 14:30:00+00:00,scheduled
+Kuwait Airways,6105,Kuwait International,King Abdulaziz International,KWI,JED,2025-07-30 12:05:00+00:00,2025-07-30 14:30:00+00:00,scheduled
+Middle East Airlines,405,Kuwait International,Beirut Rafic Hariri Airport,KWI,BEY,2025-07-30 11:55:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+Kuwait Airways,6405,Kuwait International,Beirut Rafic Hariri Airport,KWI,BEY,2025-07-30 11:55:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+Qatar Airways,1071,Kuwait International,Doha International,KWI,DOH,2025-07-30 11:40:00+00:00,2025-07-30 13:10:00+00:00,scheduled
+Virgin Australia,6328,Kuwait International,Doha International,KWI,DOH,2025-07-30 11:40:00+00:00,2025-07-30 13:10:00+00:00,scheduled
+Gulf Air,214,Kuwait International,Bahrain International,KWI,BAH,2025-07-30 11:35:00+00:00,2025-07-30 12:40:00+00:00,scheduled
+Thai Airways International,4694,Kuwait International,Bahrain International,KWI,BAH,2025-07-30 11:35:00+00:00,2025-07-30 12:40:00+00:00,scheduled
+Kuwait Airways,743,Kuwait International,King Fahd International Airport,KWI,DMM,2025-07-30 11:35:00+00:00,2025-07-30 12:45:00+00:00,scheduled
+Saudia,6543,Kuwait International,King Fahd International Airport,KWI,DMM,2025-07-30 11:35:00+00:00,2025-07-30 12:45:00+00:00,scheduled
+Jazeera Airways,271,Kuwait International,Gassim Regional Airport,KWI,ELQ,2025-07-30 11:25:00+00:00,2025-07-30 12:40:00+00:00,scheduled
+Jazeera Airways,211,Kuwait International,King Abdulaziz International,KWI,JED,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+Kuwait Airways,539,Kuwait International,Sharm el-Sheikh International Airport,KWI,SSH,2025-07-30 11:00:00+00:00,2025-07-30 13:30:00+00:00,scheduled
+Saudia,513,Kuwait International,King Khaled International,KWI,RUH,2025-07-30 10:50:00+00:00,2025-07-30 12:15:00+00:00,scheduled
+Kuwait Airways,6113,Kuwait International,King Khaled International,KWI,RUH,2025-07-30 10:50:00+00:00,2025-07-30 12:15:00+00:00,scheduled
+Jazeera Airways,305,Kuwait International,Sabiha Gokcen,KWI,SAW,2025-07-30 10:30:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+Etihad Airways,654,Kuwait International,Abu Dhabi International,KWI,AUH,2025-07-30 10:25:00+00:00,2025-07-30 13:05:00+00:00,scheduled
+Kuwait Airways,6802,Kuwait International,Abu Dhabi International,KWI,AUH,2025-07-30 10:25:00+00:00,2025-07-30 13:05:00+00:00,scheduled
+Air Arabia Abu Dhabi,2230,Kuwait International,Abu Dhabi International,KWI,AUH,2025-07-30 10:25:00+00:00,2025-07-30 13:05:00+00:00,scheduled
+Air Arabia Abu Dhabi,21,Kuwait International,Abu Dhabi International,KWI,AUH,2025-07-30 10:25:00+00:00,2025-07-30 13:05:00+00:00,scheduled
+Etihad Airways,1381,Kuwait International,Abu Dhabi International,KWI,AUH,2025-07-30 10:25:00+00:00,2025-07-30 13:05:00+00:00,scheduled
+VistaJet,645,Kuwait International,Ioannis Kapodistrias,KWI,CFU,2025-07-30 10:20:00+00:00,2025-07-30 14:51:00+00:00,scheduled
+Kuwait Airways,511,Kuwait International,Mashad,KWI,MHD,2025-07-30 10:15:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Shenzhen Airlines,5052,Guiyang,Xianyang,KWE,XIY,2025-07-30 13:00:00+00:00,2025-07-30 14:50:00+00:00,active
+China Eastern Airlines,3651,Guiyang,Xianyang,KWE,XIY,2025-07-30 13:00:00+00:00,2025-07-30 14:50:00+00:00,active
+Xiamen Airlines,7651,Guiyang,Xianyang,KWE,XIY,2025-07-30 13:00:00+00:00,2025-07-30 14:50:00+00:00,active
+China Southern Airlines,256,Guiyang,Xianyang,KWE,XIY,2025-07-30 13:00:00+00:00,2025-07-30 14:50:00+00:00,active
+9 Air Co,1327,Guiyang,Fuzhou,KWE,FOC,2025-07-30 12:50:00+00:00,2025-07-30 15:15:00+00:00,active
+Shandong Airlines,2319,Guiyang,Taiyuan,KWE,TYN,2025-07-30 12:45:00+00:00,2025-07-30 15:05:00+00:00,active
+China Express Air,6485,Guiyang,Taiyuan,KWE,TYN,2025-07-30 12:45:00+00:00,2025-07-30 15:05:00+00:00,active
+Tibet Airlines,3131,Guiyang,Taiyuan,KWE,TYN,2025-07-30 12:45:00+00:00,2025-07-30 15:05:00+00:00,active
+Air China LTD,4891,Guiyang,Taiyuan,KWE,TYN,2025-07-30 12:45:00+00:00,2025-07-30 15:05:00+00:00,active
+Shenzhen Airlines,2623,Guiyang,Taiyuan,KWE,TYN,2025-07-30 12:45:00+00:00,2025-07-30 15:05:00+00:00,active
+9 Air Co,1317,Guiyang,Lishe International Airport,KWE,NGB,2025-07-30 12:30:00+00:00,2025-07-30 14:55:00+00:00,unknown
+West Air (China),6295,Guiyang,Nanjing Lukou International Airport,KWE,NKG,2025-07-30 12:30:00+00:00,2025-07-30 15:00:00+00:00,active
+Shandong Airlines,4804,Guiyang,Shiyan Wudangshan Airport,KWE,WDS,2025-07-30 12:25:00+00:00,2025-07-30 14:10:00+00:00,active
+China Express Air,6504,Guiyang,Shiyan Wudangshan Airport,KWE,WDS,2025-07-30 12:25:00+00:00,2025-07-30 14:10:00+00:00,active
+Tibet Airlines,3190,Guiyang,Shiyan Wudangshan Airport,KWE,WDS,2025-07-30 12:25:00+00:00,2025-07-30 14:10:00+00:00,active
+empty,5089,Don Muang,Surat Thani,DMK,URT,2025-07-30 13:20:00+00:00,2025-07-30 14:35:00+00:00,scheduled
+Nok Air,574,Don Muang,Surat Thani,DMK,URT,2025-07-30 13:20:00+00:00,2025-07-30 14:35:00+00:00,scheduled
+Thai Lion Air,736,Don Muang,Surat Thani,DMK,URT,2025-07-30 12:25:00+00:00,2025-07-30 13:40:00+00:00,scheduled
+Saudia,434,Jomo Kenyatta International,King Abdulaziz International,NBO,JED,2025-07-30 07:20:00+00:00,2025-07-30 11:10:00+00:00,active
+Eurowings,6612,Pristina International,Frankfurt International Airport,PRN,FRA,2025-07-30 14:00:00+00:00,2025-07-30 16:30:00+00:00,scheduled
+Lufthansa,5323,Pristina International,Frankfurt International Airport,PRN,FRA,2025-07-30 14:00:00+00:00,2025-07-30 16:30:00+00:00,scheduled
+GP Aviation,606,Pristina International,Zurich,PRN,ZRH,2025-07-30 12:30:00+00:00,2025-07-30 14:20:00+00:00,scheduled
+Austrian,768,Pristina International,Vienna International,PRN,VIE,2025-07-30 12:10:00+00:00,2025-07-30 13:45:00+00:00,scheduled
+LOT - Polish Airlines,5024,Pristina International,Vienna International,PRN,VIE,2025-07-30 12:10:00+00:00,2025-07-30 13:45:00+00:00,scheduled
+Lufthansa,6385,Pristina International,Vienna International,PRN,VIE,2025-07-30 12:10:00+00:00,2025-07-30 13:45:00+00:00,scheduled
+Wizz Air,4789,Pristina International,Memmingen-Allgäu,PRN,FMM,2025-07-30 12:00:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+easyJet,1204,Pristina International,Euroairport Swiss,PRN,BSL,2025-07-30 12:00:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+China Airlines,8576,Vienna International,Schiphol,VIE,AMS,2025-07-30 09:20:00+00:00,2025-07-30 11:10:00+00:00,scheduled
+Ascend Airways,3031,Antalya,Houari Boumediene,AYT,ALG,2025-07-30 02:55:00+00:00,2025-07-30 04:55:00+00:00,landed
+Air Algerie,6236,Aguemar,Houari Boumediene,TMR,ALG,2025-07-30 02:30:00+00:00,2025-07-30 04:40:00+00:00,landed
+Austrian,7477,Franz Josef Strauss,Capodichino,MUC,NAP,2025-07-30 10:35:00+00:00,2025-07-30 12:20:00+00:00,scheduled
+Air Europa,4025,Alicante El Altet,Son Sant Joan Airport,ALC,PMI,2025-07-30 09:00:00+00:00,2025-07-30 09:50:00+00:00,scheduled
+Ryanair,1356,Alicante El Altet,Cologne/bonn,ALC,CGN,2025-07-30 09:00:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Transavia,4701,Alicante El Altet,Orly,ALC,ORY,2025-07-30 08:55:00+00:00,2025-07-30 11:05:00+00:00,scheduled
+MNG Airlines,3300,Istanbul Airport,Almaty,IST,ALA,2025-07-30 07:00:00+00:00,2025-07-30 13:45:00+00:00,active
+Aurigny Air Services,501,The Blaye,Southampton Airport,ACI,SOU,2025-07-30 09:50:00+00:00,2025-07-30 10:30:00+00:00,scheduled
+IndiGo,7323,Vijayawada,Tirupati,VGA,TIR,2025-07-30 09:55:00+00:00,2025-07-30 11:20:00+00:00,active
+Air India Express,2894,Vijayawada,Bangalore International Airport,VGA,BLR,2025-07-30 08:35:00+00:00,2025-07-30 10:05:00+00:00,active
+Air India,9841,Vijayawada,Bangalore International Airport,VGA,BLR,2025-07-30 08:35:00+00:00,2025-07-30 10:05:00+00:00,active
+IndiGo,7203,Vijayawada,Bangalore International Airport,VGA,BLR,2025-07-30 07:50:00+00:00,2025-07-30 09:35:00+00:00,active
+Air New Zealand,5049,Auckland International,New Plymouth,AKL,NPL,2025-07-30 20:00:00+00:00,2025-07-30 20:55:00+00:00,scheduled
+Qantas,8619,Auckland International,New Plymouth,AKL,NPL,2025-07-30 20:00:00+00:00,2025-07-30 20:55:00+00:00,scheduled
+Air New Zealand,569,Auckland International,Christchurch International,AKL,CHC,2025-07-30 20:00:00+00:00,2025-07-30 21:25:00+00:00,scheduled
+Etihad Airways,4498,Auckland International,Christchurch International,AKL,CHC,2025-07-30 20:00:00+00:00,2025-07-30 21:25:00+00:00,scheduled
+EVA Air,3275,Auckland International,Christchurch International,AKL,CHC,2025-07-30 20:00:00+00:00,2025-07-30 21:25:00+00:00,scheduled
+Air New Zealand,109,Auckland International,Sydney Kingsford Smith Airport,AKL,SYD,2025-07-30 19:55:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+Virgin Australia,7009,Auckland International,Sydney Kingsford Smith Airport,AKL,SYD,2025-07-30 19:55:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+Singapore Airlines,4245,Auckland International,Sydney Kingsford Smith Airport,AKL,SYD,2025-07-30 19:55:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+Asiana Airlines,6499,Auckland International,Sydney Kingsford Smith Airport,AKL,SYD,2025-07-30 19:55:00+00:00,2025-07-30 21:40:00+00:00,scheduled
+Cathay Pacific,7402,Auckland International,Hong Kong International,AKL,HKG,2025-07-30 10:15:00+00:00,2025-07-30 17:45:00+00:00,active
+Air New Zealand,99,Auckland International,Narita International Airport,AKL,NRT,2025-07-30 10:15:00+00:00,2025-07-30 18:15:00+00:00,active
+Enter Air,,Lawica,Ioannis Kapodistrias,POZ,CFU,2025-07-30 07:00:00+00:00,2025-07-30 10:04:00+00:00,active
+Enter Air,1505,Lawica,Antalya,POZ,AYT,2025-07-30 06:50:00+00:00,2025-07-30 10:43:00+00:00,active
+KLM,1332,Lawica,Schiphol,POZ,AMS,2025-07-30 06:30:00+00:00,2025-07-30 08:20:00+00:00,active
+Air France,1314,Charles De Gaulle,Birmingham Airport,CDG,BHX,2025-07-30 13:20:00+00:00,2025-07-30 13:40:00+00:00,scheduled
+Etihad Airways,3012,Charles De Gaulle,Leonardo Da Vinci (Fiumicino),CDG,FCO,2025-07-30 06:10:00+00:00,2025-07-30 08:10:00+00:00,active
+Aer Lingus,380,Shannon,Heathrow,SNN,LHR,2025-07-30 07:40:00+00:00,2025-07-30 09:05:00+00:00,active
+Qatar Airways,8231,Shannon,Heathrow,SNN,LHR,2025-07-30 07:40:00+00:00,2025-07-30 09:05:00+00:00,active
+Virgin Atlantic,8355,Bangalore International Airport,Netaji Subhas Chandra,BLR,CCU,2025-07-30 09:55:00+00:00,2025-07-30 12:50:00+00:00,active
+Qantas,5105,Bangalore International Airport,Netaji Subhas Chandra,BLR,CCU,2025-07-30 09:55:00+00:00,2025-07-30 12:50:00+00:00,active
+Japan Airlines,9781,Bangalore International Airport,Netaji Subhas Chandra,BLR,CCU,2025-07-30 09:55:00+00:00,2025-07-30 12:50:00+00:00,active
+Turkish Airlines,698,Istanbul Airport,Sharm el-Sheikh International Airport,IST,SSH,2025-07-30 02:10:00+00:00,2025-07-30 04:50:00+00:00,landed
+EgyptAir,9661,Istanbul Airport,Sharm el-Sheikh International Airport,IST,SSH,2025-07-30 02:10:00+00:00,2025-07-30 04:50:00+00:00,landed
+Pegasus,632,Sabiha Gokcen,Sharm el-Sheikh International Airport,SAW,SSH,2025-07-30 01:10:00+00:00,2025-07-30 03:45:00+00:00,landed
+Shenzhen Airlines,2813,Yantai,Tianhe International,YNT,WUH,2025-07-30 13:40:00+00:00,2025-07-30 15:50:00+00:00,active
+Ethiopian Airlines,925,Libreville,Nsimalen International,LBV,NSI,2025-07-30 12:50:00+00:00,2025-07-30 13:50:00+00:00,scheduled
+ASKY,1066,Libreville,Nsimalen International,LBV,NSI,2025-07-30 12:50:00+00:00,2025-07-30 13:50:00+00:00,scheduled
+Etihad Airways,6551,Libreville,Nsimalen International,LBV,NSI,2025-07-30 12:50:00+00:00,2025-07-30 13:50:00+00:00,scheduled
+Groupe Transair,3044,Libreville,Felix Houphouet Boigny,LBV,ABJ,2025-07-30 12:30:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+,3410,Libreville,Felix Houphouet Boigny,LBV,ABJ,2025-07-30 12:30:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+FlexFlight,1385,Libreville,Felix Houphouet Boigny,LBV,ABJ,2025-07-30 12:30:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+empty,110,Libreville,Oyem,LBV,OYE,2025-07-30 10:45:00+00:00,2025-07-30 11:45:00+00:00,scheduled
+Afrijet,170,Libreville,Oyem,LBV,OYE,2025-07-30 10:45:00+00:00,2025-07-30 11:45:00+00:00,scheduled
+empty,122,Libreville,Franceville/Mvengue,LBV,MVB,2025-07-30 09:30:00+00:00,2025-07-30 11:00:00+00:00,scheduled
+Afrijet,122,Libreville,Franceville/Mvengue,LBV,MVB,2025-07-30 09:30:00+00:00,2025-07-30 11:00:00+00:00,scheduled
+ASKY,61,Libreville,Murtala Muhammed,LBV,LOS,2025-07-30 09:20:00+00:00,2025-07-30 11:05:00+00:00,scheduled
+One Air,3012,Libreville,Murtala Muhammed,LBV,LOS,2025-07-30 09:20:00+00:00,2025-07-30 11:05:00+00:00,scheduled
+Ethiopian Airlines,1021,Libreville,Murtala Muhammed,LBV,LOS,2025-07-30 09:20:00+00:00,2025-07-30 11:05:00+00:00,scheduled
+Air Cote D'Ivoire,827,Libreville,Murtala Muhammed,LBV,LOS,2025-07-30 09:00:00+00:00,2025-07-30 10:40:00+00:00,scheduled
+Turkish Airlines,530,Libreville,4 de Fevereiro,LBV,LAD,2025-07-30 08:20:00+00:00,2025-07-30 10:25:00+00:00,scheduled
+Southwest Airlines,1713,Indianapolis International,Orlando International,IND,MCO,2025-07-30 05:30:00+00:00,2025-07-30 07:45:00+00:00,scheduled
+Southwest Airlines,2695,Indianapolis International,William P Hobby,IND,HOU,2025-07-30 05:20:00+00:00,2025-07-30 06:45:00+00:00,scheduled
+Mountain Air Cargo,8334,Indianapolis International,South Bend Regional,IND,SBN,2025-07-30 05:07:00+00:00,2025-07-30 05:58:00+00:00,scheduled
+American Airlines,1892,Indianapolis International,Chicago O'hare International,IND,ORD,2025-07-30 05:05:00+00:00,2025-07-30 05:22:00+00:00,scheduled
+Qantas,4900,Indianapolis International,Chicago O'hare International,IND,ORD,2025-07-30 05:05:00+00:00,2025-07-30 05:22:00+00:00,scheduled
+Aer Lingus,7415,Indianapolis International,Chicago O'hare International,IND,ORD,2025-07-30 05:05:00+00:00,2025-07-30 05:22:00+00:00,scheduled
+AlphaSky,6777,Indianapolis International,Chicago O'hare International,IND,ORD,2025-07-30 05:05:00+00:00,2025-07-30 05:22:00+00:00,scheduled
+FedEx,1715,Indianapolis International,Nashville International,IND,BNA,2025-07-30 04:58:00+00:00,2025-07-30 04:33:00+00:00,scheduled
+FedEx,1706,Indianapolis International,Chicago O'hare International,IND,ORD,2025-07-30 04:53:00+00:00,2025-07-30 04:30:00+00:00,scheduled
+FedEx,1702,Indianapolis International,Gerald R. Ford International,IND,GRR,2025-07-30 04:53:00+00:00,2025-07-30 05:31:00+00:00,scheduled
+Juneyao Airlines,3311,"Athens International Airport ""Eleftherios Venizelos""",Ioannis Kapodistrias,ATH,CFU,2025-07-30 13:05:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+KLM,1230,Landvetter,Schiphol,GOT,AMS,2025-07-30 09:45:00+00:00,2025-07-30 11:20:00+00:00,scheduled
+Go2Sky,1534,Ibiza,Schiphol,IBZ,AMS,2025-07-30 08:25:00+00:00,2025-07-30 11:20:00+00:00,scheduled
+Transavia,5132,El Prat De Llobregat,Schiphol,BCN,AMS,2025-07-30 08:55:00+00:00,2025-07-30 11:20:00+00:00,scheduled
+Uzbekistan Airways,9615,Urgench,Vnukovo,UGC,VKO,2025-07-30 06:30:00+00:00,2025-07-30 08:25:00+00:00,landed
+Delta Air Lines,8474,Charles De Gaulle,Cote D'azur International Airport,CDG,NCE,2025-07-30 07:35:00+00:00,2025-07-30 09:10:00+00:00,scheduled
+Aeromexico,5838,Charles De Gaulle,Cote D'azur International Airport,CDG,NCE,2025-07-30 07:35:00+00:00,2025-07-30 09:10:00+00:00,scheduled
+DHL Air,154,Chhatrapati Shivaji International (Sahar International),Sardar Vallabhbhai Patel International Airport,BOM,AMD,2025-07-30 02:25:00+00:00,2025-07-30 03:35:00+00:00,landed
+IndiGo,935,Sardar Vallabhbhai Patel International Airport,Amausi,AMD,LKO,2025-07-30 17:25:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+IndiGo,5139,Sardar Vallabhbhai Patel International Airport,Chhatrapati Shivaji International (Sahar International),AMD,BOM,2025-07-30 17:15:00+00:00,2025-07-30 18:45:00+00:00,scheduled
+Virgin Atlantic,8274,Sardar Vallabhbhai Patel International Airport,Chhatrapati Shivaji International (Sahar International),AMD,BOM,2025-07-30 17:15:00+00:00,2025-07-30 18:45:00+00:00,scheduled
+LATAM Airlines,4537,Eurico Sales,Aeroporto Internacional Guarulhos,VIX,GRU,2025-07-30 04:25:00+00:00,2025-07-30 06:00:00+00:00,scheduled
+Aerolineas Argentinas,8338,Eurico Sales,Aeroporto Internacional Guarulhos,VIX,GRU,2025-07-30 04:25:00+00:00,2025-07-30 06:00:00+00:00,scheduled
+Aeromexico,8487,Eurico Sales,Aeroporto Internacional Guarulhos,VIX,GRU,2025-07-30 04:25:00+00:00,2025-07-30 06:00:00+00:00,scheduled
+South African Airlink,125,Hosea Kutako International (J. G. Strijdom),Oliver Reginald Tambo International (Jan Smuts International),WDH,JNB,2025-07-30 13:45:00+00:00,2025-07-30 15:35:00+00:00,scheduled
+Lufthansa City,1822,Franz Josef Strauss,San Pablo,MUC,SVQ,2025-07-30 09:15:00+00:00,2025-07-30 12:20:00+00:00,scheduled
+Lufthansa,4130,Franz Josef Strauss,San Pablo,MUC,SVQ,2025-07-30 09:15:00+00:00,2025-07-30 12:20:00+00:00,scheduled
+Ryanair,1247,Beauvais-Tille,San Pablo,BVA,SVQ,2025-07-30 09:35:00+00:00,2025-07-30 12:00:00+00:00,scheduled
+Flight Training Europe,,Jerez De La Frontera,San Pablo,XRY,SVQ,2025-07-30 10:15:00+00:00,2025-07-30 11:57:00+00:00,scheduled
+Tianjin Airlines,6683,Hohhot,Chifeng,HET,CIF,2025-07-30 09:00:00+00:00,2025-07-30 10:20:00+00:00,scheduled
+Turkish Airlines,8151,Frederic Chopin,Brussels Airport,WAW,BRU,2025-07-30 10:25:00+00:00,2025-07-30 12:35:00+00:00,scheduled
+SAS,752,Frederic Chopin,Kastrup,WAW,CPH,2025-07-30 10:15:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+DHL Air,,Halle,Brussels Airport,LEJ,BRU,2025-07-30 01:35:00+00:00,2025-07-30 02:47:00+00:00,active
+Ryanair,4750,Punta Raisi,Karlsruhe/Baden-Baden,PMO,FKB,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+DHL Air,556,Halle,Bahrain International,LEJ,BAH,2025-07-30 00:55:00+00:00,2025-07-30 07:44:00+00:00,active
+Nam Air,193,Pangkalanbuun,Juanda,PKN,SUB,2025-07-30 10:50:00+00:00,2025-07-30 12:00:00+00:00,landed
+Aeroflot,1705,Vladivostok,Sheremetyevo International,VVO,SVO,2025-07-30 12:05:00+00:00,2025-07-30 13:40:00+00:00,active
+S7 Airlines,5208,Vladivostok,Tolmachevo,VVO,OVB,2025-07-30 11:10:00+00:00,2025-07-30 14:05:00+00:00,active
+Aurora,5680,Vladivostok,Yuzhno-Sakhalinsk,VVO,UUS,2025-07-30 10:40:00+00:00,2025-07-30 13:20:00+00:00,active
+Ural Airlines,366,Vladivostok,Irkutsk,VVO,IKT,2025-07-30 10:20:00+00:00,2025-07-30 12:45:00+00:00,active
+KLM,8749,Shanghai Pudong International,Zhanjiang,PVG,ZHA,2025-07-30 11:55:00+00:00,2025-07-30 14:50:00+00:00,cancelled
+Juneyao Airlines,5656,Shanghai Pudong International,Zhanjiang,PVG,ZHA,2025-07-30 11:55:00+00:00,2025-07-30 14:50:00+00:00,cancelled
+Xiamen Airlines,3871,Shanghai Pudong International,Zhanjiang,PVG,ZHA,2025-07-30 11:55:00+00:00,2025-07-30 14:50:00+00:00,cancelled
+Breeze Airways,716,T. F. Green Airport,Orlando International,PVD,MCO,2025-07-30 08:00:00+00:00,2025-07-30 11:08:00+00:00,scheduled
+UPS Airlines,5299,T. F. Green Airport,Louisville International (Standiford Field),PVD,SDF,2025-07-30 07:45:00+00:00,2025-07-30 09:53:00+00:00,scheduled
+Delta Air Lines,2563,T. F. Green Airport,Minneapolis - St. Paul International,PVD,MSP,2025-07-30 07:25:00+00:00,2025-07-30 09:28:00+00:00,scheduled
+WestJet,7417,T. F. Green Airport,Minneapolis - St. Paul International,PVD,MSP,2025-07-30 07:25:00+00:00,2025-07-30 09:28:00+00:00,scheduled
+WestJet,7485,T. F. Green Airport,Minneapolis - St. Paul International,PVD,MSP,2025-07-30 07:25:00+00:00,2025-07-30 09:28:00+00:00,scheduled
+Air France,6827,T. F. Green Airport,Minneapolis - St. Paul International,PVD,MSP,2025-07-30 07:25:00+00:00,2025-07-30 09:28:00+00:00,scheduled
+Southwest Airlines,3186,T. F. Green Airport,Orlando International,PVD,MCO,2025-07-30 07:15:00+00:00,2025-07-30 10:05:00+00:00,scheduled
+China Southern Airlines,5894,Urumqi,Changchun,URC,CGQ,2025-07-30 08:40:00+00:00,2025-07-30 13:20:00+00:00,landed
+Sichuan Airlines,1468,Urumqi,Changchun,URC,CGQ,2025-07-30 08:40:00+00:00,2025-07-30 13:20:00+00:00,landed
+Air New Zealand,221,Christchurch International,Sydney Kingsford Smith Airport,CHC,SYD,2025-07-30 06:35:00+00:00,2025-07-30 08:15:00+00:00,landed
+Virgin Australia,7121,Christchurch International,Sydney Kingsford Smith Airport,CHC,SYD,2025-07-30 06:35:00+00:00,2025-07-30 08:15:00+00:00,landed
+Sichuan Airlines,8022,Wenzhou,Chongqing Jiangbei International,WNZ,CKG,2025-07-30 10:25:00+00:00,2025-07-30 12:55:00+00:00,landed
+Aero-Dienst,,Grenoble-isere Airport (St Geoirs),Garons,GNB,FNI,2025-07-30 12:20:00+00:00,2025-07-30 12:51:00+00:00,scheduled
+empty,,Avignon-Caumont,Garons,AVN,FNI,2025-07-30 07:30:00+00:00,2025-07-30 07:52:00+00:00,scheduled
+Ryanair,8816,Stansted,Garons,STN,FNI,2025-07-30 08:25:00+00:00,2025-07-30 11:25:00+00:00,scheduled
+Ryanair,4842,Charleroi Brussels South,Garons,CRL,FNI,2025-07-30 07:55:00+00:00,2025-07-30 09:35:00+00:00,scheduled
+easyJet,8534,Faro,Gatwick,FAO,LGW,2025-07-30 10:15:00+00:00,2025-07-30 13:05:00+00:00,scheduled
+AJet,3171,Erkilet International Airport,Sabiha Gokcen,ASR,SAW,2025-07-30 09:55:00+00:00,2025-07-30 11:25:00+00:00,scheduled
+Turkish Airlines,2011,Erkilet International Airport,Istanbul Airport,ASR,IST,2025-07-30 08:45:00+00:00,2025-07-30 10:25:00+00:00,active
+TAP Air Portugal,8809,Erkilet International Airport,Istanbul Airport,ASR,IST,2025-07-30 08:45:00+00:00,2025-07-30 10:25:00+00:00,active
+Thai Airways International,9333,Erkilet International Airport,Istanbul Airport,ASR,IST,2025-07-30 08:45:00+00:00,2025-07-30 10:25:00+00:00,active
+Singapore Airlines,6211,Erkilet International Airport,Istanbul Airport,ASR,IST,2025-07-30 08:45:00+00:00,2025-07-30 10:25:00+00:00,active
+Air Serbia,8063,Erkilet International Airport,Istanbul Airport,ASR,IST,2025-07-30 08:45:00+00:00,2025-07-30 10:25:00+00:00,active
+Royal Air Maroc,9459,Erkilet International Airport,Istanbul Airport,ASR,IST,2025-07-30 08:45:00+00:00,2025-07-30 10:25:00+00:00,active
+SunExpress,9039,Erkilet International Airport,Adnan Menderes Airport,ASR,ADB,2025-07-30 08:25:00+00:00,2025-07-30 10:00:00+00:00,active
+Pegasus,2731,Erkilet International Airport,Sabiha Gokcen,ASR,SAW,2025-07-30 08:00:00+00:00,2025-07-30 09:25:00+00:00,active
+flynas,5731,Erkilet International Airport,Sabiha Gokcen,ASR,SAW,2025-07-30 08:00:00+00:00,2025-07-30 09:25:00+00:00,active
+Vueling,6864,Peretola,Fontanarossa,FLR,CTA,2025-07-30 12:55:00+00:00,2025-07-30 14:35:00+00:00,scheduled
+Air France,,Peretola,Charles De Gaulle,FLR,CDG,2025-07-30 12:50:00+00:00,2025-07-30 14:31:00+00:00,scheduled
+Air France,1467,Peretola,Charles De Gaulle,FLR,CDG,2025-07-30 12:50:00+00:00,2025-07-30 14:40:00+00:00,scheduled
+KLM,2049,Peretola,Charles De Gaulle,FLR,CDG,2025-07-30 12:50:00+00:00,2025-07-30 14:40:00+00:00,scheduled
+Delta Air Lines,8320,Peretola,Charles De Gaulle,FLR,CDG,2025-07-30 12:50:00+00:00,2025-07-30 14:40:00+00:00,scheduled
+British Airways,525,Peretola,Heathrow,FLR,LHR,2025-07-30 12:40:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Vueling,6206,Peretola,Gatwick,FLR,LGW,2025-07-30 12:35:00+00:00,2025-07-30 14:00:00+00:00,scheduled
+British Airways,8080,Peretola,Gatwick,FLR,LGW,2025-07-30 12:35:00+00:00,2025-07-30 14:00:00+00:00,scheduled
+Air France,1367,Peretola,Charles De Gaulle,FLR,CDG,2025-07-30 12:15:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Air Austral,8367,Peretola,Charles De Gaulle,FLR,CDG,2025-07-30 12:15:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Kenya Airways,3929,Peretola,Charles De Gaulle,FLR,CDG,2025-07-30 12:15:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+KLM,2129,Peretola,Charles De Gaulle,FLR,CDG,2025-07-30 12:15:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Delta Air Lines,8369,Peretola,Charles De Gaulle,FLR,CDG,2025-07-30 12:15:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+KLM,1654,Peretola,Schiphol,FLR,AMS,2025-07-30 12:10:00+00:00,2025-07-30 14:25:00+00:00,scheduled
+China Eastern Airlines,1824,Peretola,Schiphol,FLR,AMS,2025-07-30 12:10:00+00:00,2025-07-30 14:25:00+00:00,scheduled
+Kenya Airways,1642,Peretola,Schiphol,FLR,AMS,2025-07-30 12:10:00+00:00,2025-07-30 14:25:00+00:00,scheduled
+Delta Air Lines,9514,Peretola,Schiphol,FLR,AMS,2025-07-30 12:10:00+00:00,2025-07-30 14:25:00+00:00,scheduled
+TAP Air Portugal,875,Peretola,Lisbon Portela,FLR,LIS,2025-07-30 12:05:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+Azores Airlines,8959,Peretola,Lisbon Portela,FLR,LIS,2025-07-30 12:05:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+Azul,7313,Peretola,Lisbon Portela,FLR,LIS,2025-07-30 12:05:00+00:00,2025-07-30 14:15:00+00:00,scheduled
+empty,,Peretola,Zurich,FLR,ZRH,2025-07-30 12:00:00+00:00,2025-07-30 13:02:00+00:00,scheduled
+empty,,Peretola,Avignon-Caumont,FLR,AVN,2025-07-30 12:00:00+00:00,2025-07-30 13:33:00+00:00,scheduled
+SAS,2962,Peretola,Kastrup,FLR,CPH,2025-07-30 12:00:00+00:00,2025-07-30 14:10:00+00:00,scheduled
+Vueling,1496,Peretola,Barajas,FLR,MAD,2025-07-30 11:55:00+00:00,2025-07-30 14:30:00+00:00,scheduled
+Qatar Airways,8118,Peretola,Barajas,FLR,MAD,2025-07-30 11:55:00+00:00,2025-07-30 14:30:00+00:00,scheduled
+Iberia,5328,Peretola,Barajas,FLR,MAD,2025-07-30 11:55:00+00:00,2025-07-30 14:30:00+00:00,scheduled
+American Airlines,8874,Peretola,Barajas,FLR,MAD,2025-07-30 11:55:00+00:00,2025-07-30 14:30:00+00:00,scheduled
+Brussels Airlines,3140,Peretola,Brussels Airport,FLR,BRU,2025-07-30 11:30:00+00:00,2025-07-30 13:20:00+00:00,scheduled
+KLM,1652,Peretola,Schiphol,FLR,AMS,2025-07-30 11:20:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+China Eastern Airlines,1822,Peretola,Schiphol,FLR,AMS,2025-07-30 11:20:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Sichuan Airlines,1054,Beijing Daxing International Airport,Shenzhen,PKX,SZX,2025-07-30 10:00:00+00:00,2025-07-30 13:25:00+00:00,landed
+China Southern Airlines,3157,Shenzhen,Beijing Daxing International Airport,SZX,PKX,2025-07-30 17:30:00+00:00,2025-07-30 20:50:00+00:00,scheduled
+China Southern Airlines,6890,Shenzhen,Urumqi,SZX,URC,2025-07-30 17:25:00+00:00,2025-07-30 23:00:00+00:00,scheduled
+Shenzhen Airlines,9529,Shenzhen,Shanghai Pudong International,SZX,PVG,2025-07-30 17:25:00+00:00,2025-07-30 20:00:00+00:00,scheduled
+Xiamen Airlines,8378,Shenzhen,Shanghai Hongqiao International,SZX,SHA,2025-07-30 17:25:00+00:00,2025-07-30 19:50:00+00:00,scheduled
+Air China LTD,4314,Shenzhen,Shuangliu,SZX,CTU,2025-07-30 17:25:00+00:00,2025-07-30 20:10:00+00:00,scheduled
+Hainan Airlines,7747,Shenzhen,Taiyuan,SZX,TYN,2025-07-30 17:20:00+00:00,2025-07-30 20:10:00+00:00,scheduled
+Fuzhou Airlines,6652,Shenzhen,Kunming,SZX,KMG,2025-07-30 17:20:00+00:00,2025-07-30 19:40:00+00:00,scheduled
+China Southern Airlines,3963,Shenzhen,Qingdao,SZX,TAO,2025-07-30 17:15:00+00:00,2025-07-30 20:30:00+00:00,scheduled
+Shenzhen Airlines,9507,Shenzhen,Shanghai Hongqiao International,SZX,SHA,2025-07-30 17:10:00+00:00,2025-07-30 19:35:00+00:00,scheduled
+Shenzhen Airlines,8983,Shenzhen,Lijiang,SZX,LJG,2025-07-30 17:10:00+00:00,2025-07-30 20:00:00+00:00,scheduled
+PLAY Europe,214,Sydney Bankstown,Williamtown,BWU,NTL,2025-07-30 12:30:00+00:00,2025-07-30 12:52:00+00:00,landed
+Qatar Airways,3607,El Prat De Llobregat,Nantes Atlantique,BCN,NTE,2025-07-30 08:05:00+00:00,2025-07-30 09:40:00+00:00,scheduled
+Lufthansa,1103,W. A. Mozart,Frankfurt International Airport,SZG,FRA,2025-07-30 10:30:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Thai Airways International,7827,W. A. Mozart,Frankfurt International Airport,SZG,FRA,2025-07-30 10:30:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Austrian,7249,W. A. Mozart,Frankfurt International Airport,SZG,FRA,2025-07-30 10:30:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+ANA,7937,W. A. Mozart,Frankfurt International Airport,SZG,FRA,2025-07-30 10:30:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Air Canada,9219,Frankfurt International Airport,Hamburg Airport,FRA,HAM,2025-07-30 08:00:00+00:00,2025-07-30 09:05:00+00:00,active
+Air Dolomiti,8852,Frankfurt International Airport,Peretola,FRA,FLR,2025-07-30 08:00:00+00:00,2025-07-30 09:40:00+00:00,active
+Lufthansa,6910,Frankfurt International Airport,Peretola,FRA,FLR,2025-07-30 08:00:00+00:00,2025-07-30 09:40:00+00:00,active
+Air China LTD,6475,Frankfurt International Airport,Peretola,FRA,FLR,2025-07-30 08:00:00+00:00,2025-07-30 09:40:00+00:00,active
+Alitalia,7401,Frankfurt International Airport,Peretola,FRA,FLR,2025-07-30 08:00:00+00:00,2025-07-30 09:40:00+00:00,active
+Air Canada,7356,Frankfurt International Airport,Peretola,FRA,FLR,2025-07-30 08:00:00+00:00,2025-07-30 09:40:00+00:00,active
+Lufthansa,1058,Frankfurt International Airport,Cote D'azur International Airport,FRA,NCE,2025-07-30 07:55:00+00:00,2025-07-30 09:25:00+00:00,active
+United Airlines,9200,Frankfurt International Airport,Cote D'azur International Airport,FRA,NCE,2025-07-30 07:55:00+00:00,2025-07-30 09:25:00+00:00,active
+ANA,5416,Frankfurt International Airport,Cote D'azur International Airport,FRA,NCE,2025-07-30 07:55:00+00:00,2025-07-30 09:25:00+00:00,active
+Air Canada,9372,Frankfurt International Airport,Cote D'azur International Airport,FRA,NCE,2025-07-30 07:55:00+00:00,2025-07-30 09:25:00+00:00,active
+Air Dolomiti,8116,Frankfurt International Airport,Zurich,FRA,ZRH,2025-07-30 07:55:00+00:00,2025-07-30 08:50:00+00:00,active
+SWISS,4815,Frankfurt International Airport,Zurich,FRA,ZRH,2025-07-30 07:55:00+00:00,2025-07-30 08:50:00+00:00,active
+Lufthansa,6906,Frankfurt International Airport,Zurich,FRA,ZRH,2025-07-30 07:55:00+00:00,2025-07-30 08:50:00+00:00,active
+Elangeni,,Frankfurt International Airport,Cote D'azur International Airport,FRA,NCE,2025-07-30 07:51:00+00:00,2025-07-30 09:20:00+00:00,active
+Lufthansa,986,Frankfurt International Airport,Schiphol,FRA,AMS,2025-07-30 07:50:00+00:00,2025-07-30 09:00:00+00:00,active
+United Airlines,9147,Frankfurt International Airport,Schiphol,FRA,AMS,2025-07-30 07:50:00+00:00,2025-07-30 09:00:00+00:00,active
+Thai Airways International,7652,Frankfurt International Airport,Schiphol,FRA,AMS,2025-07-30 07:50:00+00:00,2025-07-30 09:00:00+00:00,active
+ANA,5410,Frankfurt International Airport,Schiphol,FRA,AMS,2025-07-30 07:50:00+00:00,2025-07-30 09:00:00+00:00,active
+Ethiopian Airlines,1577,Frankfurt International Airport,Schiphol,FRA,AMS,2025-07-30 07:50:00+00:00,2025-07-30 09:00:00+00:00,active
+Air Canada,9071,Frankfurt International Airport,Schiphol,FRA,AMS,2025-07-30 07:50:00+00:00,2025-07-30 09:00:00+00:00,active
+Lufthansa,1094,Frankfurt International Airport,Blagnac,FRA,TLS,2025-07-30 07:45:00+00:00,2025-07-30 09:30:00+00:00,active
+United Airlines,9388,Frankfurt International Airport,Blagnac,FRA,TLS,2025-07-30 07:45:00+00:00,2025-07-30 09:30:00+00:00,active
+China Southern Airlines,3836,Shanghai Pudong International,Fenghuang International (Phoenix International),PVG,SYX,2025-07-30 16:35:00+00:00,2025-07-30 19:55:00+00:00,cancelled
+Flexjet,554,Hopkins International,,CLE,MNZ,2025-07-30 08:09:00+00:00,2025-07-30 09:11:00+00:00,scheduled
+Southwest Airlines,2035,Hopkins International,Lambert-St. Louis International,CLE,STL,2025-07-30 08:05:00+00:00,2025-07-30 08:40:00+00:00,scheduled
+United Airlines,2053,Hopkins International,Newark Liberty International,CLE,EWR,2025-07-30 08:05:00+00:00,2025-07-30 09:39:00+00:00,scheduled
+Air Canada,3129,Hopkins International,Newark Liberty International,CLE,EWR,2025-07-30 08:05:00+00:00,2025-07-30 09:39:00+00:00,scheduled
+Delta Air Lines,523,Hopkins International,Hartsfield-jackson Atlanta International,CLE,ATL,2025-07-30 08:05:00+00:00,2025-07-30 09:53:00+00:00,scheduled
+Korean Air,3593,Hopkins International,Hartsfield-jackson Atlanta International,CLE,ATL,2025-07-30 08:05:00+00:00,2025-07-30 09:53:00+00:00,scheduled
+Aeromexico,3406,Hopkins International,Hartsfield-jackson Atlanta International,CLE,ATL,2025-07-30 08:05:00+00:00,2025-07-30 09:53:00+00:00,scheduled
+NetJets Aviation,925,Hopkins International,Teterboro,CLE,TEB,2025-07-30 08:00:00+00:00,2025-07-30 09:18:00+00:00,scheduled
+NetJets Aviation,515,Hopkins International,Palm Beach International Airport,CLE,PBI,2025-07-30 08:00:00+00:00,2025-07-30 10:48:00+00:00,scheduled
+United Airlines,2636,Hopkins International,Orlando International,CLE,MCO,2025-07-30 08:00:00+00:00,2025-07-30 10:25:00+00:00,scheduled
+Copa Airlines,1301,Hopkins International,Orlando International,CLE,MCO,2025-07-30 08:00:00+00:00,2025-07-30 10:25:00+00:00,scheduled
+SA AVIANCA,2287,Hopkins International,Orlando International,CLE,MCO,2025-07-30 08:00:00+00:00,2025-07-30 10:25:00+00:00,scheduled
+Azul,7084,Hopkins International,Orlando International,CLE,MCO,2025-07-30 08:00:00+00:00,2025-07-30 10:25:00+00:00,scheduled
+Frontier Airlines,4140,Hopkins International,Luis Munoz Marin International,CLE,SJU,2025-07-30 08:00:00+00:00,2025-07-30 12:28:00+00:00,scheduled
+American Airlines,4386,Hopkins International,Philadelphia International,CLE,PHL,2025-07-30 08:00:00+00:00,2025-07-30 09:35:00+00:00,scheduled
+FedEx,468,Hopkins International,Memphis International,CLE,MEM,2025-07-30 07:41:00+00:00,2025-07-30 08:11:00+00:00,scheduled
+Delta Air Lines,3249,Hopkins International,Salt Lake City International,CLE,SLC,2025-07-30 07:35:00+00:00,2025-07-30 09:40:00+00:00,scheduled
+Korean Air,3340,Hopkins International,Salt Lake City International,CLE,SLC,2025-07-30 07:35:00+00:00,2025-07-30 09:40:00+00:00,scheduled
+United Airlines,700,Hopkins International,San Francisco International,CLE,SFO,2025-07-30 07:31:00+00:00,2025-07-30 09:40:00+00:00,scheduled
+Virgin Australia,8488,Hopkins International,San Francisco International,CLE,SFO,2025-07-30 07:31:00+00:00,2025-07-30 09:40:00+00:00,scheduled
+Turkish Airlines,9207,Narita International Airport,Hong Kong International,NRT,HKG,2025-07-30 15:55:00+00:00,2025-07-30 20:00:00+00:00,scheduled
+Zipair,22,Narita International Airport,Vancouver International,NRT,YVR,2025-07-30 15:50:00+00:00,2025-07-30 08:35:00+00:00,scheduled
+Korean Air,2130,Narita International Airport,Gimhae,NRT,PUS,2025-07-30 15:50:00+00:00,2025-07-30 18:00:00+00:00,scheduled
+Japan Airlines,5231,Narita International Airport,Gimhae,NRT,PUS,2025-07-30 15:50:00+00:00,2025-07-30 18:00:00+00:00,scheduled
+Hong Kong Express,849,Narita International Airport,Hong Kong International,NRT,HKG,2025-07-30 15:45:00+00:00,2025-07-30 19:40:00+00:00,scheduled
+Cathay Pacific,5849,Narita International Airport,Hong Kong International,NRT,HKG,2025-07-30 15:45:00+00:00,2025-07-30 19:40:00+00:00,scheduled
+Peach Aviation,575,Narita International Airport,Chitose,NRT,CTS,2025-07-30 15:45:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Jetstar Japan,331,Narita International Airport,Naha,NRT,OKA,2025-07-30 15:45:00+00:00,2025-07-30 18:50:00+00:00,scheduled
+Qantas,5963,Narita International Airport,Naha,NRT,OKA,2025-07-30 15:45:00+00:00,2025-07-30 18:50:00+00:00,scheduled
+Japan Airlines,6119,Narita International Airport,Naha,NRT,OKA,2025-07-30 15:45:00+00:00,2025-07-30 18:50:00+00:00,scheduled
+Cathay Pacific,451,Narita International Airport,Taiwan Taoyuan International (Chiang Kai Shek International),NRT,TPE,2025-07-30 15:45:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Japan Airlines,7045,Narita International Airport,Taiwan Taoyuan International (Chiang Kai Shek International),NRT,TPE,2025-07-30 15:45:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Xiamen Airlines,810,Narita International Airport,Fuzhou,NRT,FOC,2025-07-30 15:30:00+00:00,2025-07-30 18:30:00+00:00,active
+Japan Airlines,5097,Narita International Airport,Fuzhou,NRT,FOC,2025-07-30 15:30:00+00:00,2025-07-30 18:30:00+00:00,active
+China Eastern Airlines,7292,Narita International Airport,Shanghai Pudong International,NRT,PVG,2025-07-30 15:20:00+00:00,2025-07-30 18:15:00+00:00,active
+Hawaiian Airlines,3418,Brisbane International,Sydney Kingsford Smith Airport,BNE,SYD,2025-07-30 11:25:00+00:00,2025-07-30 13:00:00+00:00,landed
+Air New Zealand,1721,Brisbane International,Sydney Kingsford Smith Airport,BNE,SYD,2025-07-30 11:25:00+00:00,2025-07-30 13:00:00+00:00,landed
+Emirates,5521,Brisbane International,Sydney Kingsford Smith Airport,BNE,SYD,2025-07-30 11:25:00+00:00,2025-07-30 13:00:00+00:00,landed
+China Southern Airlines,7552,Brisbane International,Sydney Kingsford Smith Airport,BNE,SYD,2025-07-30 11:25:00+00:00,2025-07-30 13:00:00+00:00,landed
+Alitalia,5219,Islamabad International,King Abdulaziz International,ISB,JED,2025-07-30 03:00:00+00:00,2025-07-30 06:10:00+00:00,landed
+Airblue,170,Quaid-e-azam International,King Abdulaziz International,KHI,JED,2025-07-30 03:40:00+00:00,2025-07-30 06:05:00+00:00,landed
+Saudia,1645,Abha,King Abdulaziz International,AHB,JED,2025-07-30 04:45:00+00:00,2025-07-30 06:05:00+00:00,landed
+American Airlines,6048,Albert J Ellis,Charlotte Douglas,OAJ,CLT,2025-07-30 06:59:00+00:00,2025-07-30 08:20:00+00:00,scheduled
+Delta Air Lines,4888,Albert J Ellis,Hartsfield-jackson Atlanta International,OAJ,ATL,2025-07-30 05:50:00+00:00,2025-07-30 07:24:00+00:00,scheduled
+WestJet,8176,Albert J Ellis,Hartsfield-jackson Atlanta International,OAJ,ATL,2025-07-30 05:50:00+00:00,2025-07-30 07:24:00+00:00,scheduled
+KLM,6327,Albert J Ellis,Hartsfield-jackson Atlanta International,OAJ,ATL,2025-07-30 05:50:00+00:00,2025-07-30 07:24:00+00:00,scheduled
+Korean Air,6980,Albert J Ellis,Hartsfield-jackson Atlanta International,OAJ,ATL,2025-07-30 05:50:00+00:00,2025-07-30 07:24:00+00:00,scheduled
+Air China LTD,3453,Beijing Capital International,Wuxi,PEK,WUX,2025-07-30 14:00:00+00:00,2025-07-30 16:00:00+00:00,scheduled
+Japan Airlines,323,Haneda Airport,Fukuoka,HND,FUK,2025-07-30 15:15:00+00:00,2025-07-30 17:05:00+00:00,scheduled
+AlphaSky,7447,Haneda Airport,Fukuoka,HND,FUK,2025-07-30 15:15:00+00:00,2025-07-30 17:05:00+00:00,scheduled
+Hawaiian Airlines,5156,Haneda Airport,Fukuoka,HND,FUK,2025-07-30 15:15:00+00:00,2025-07-30 17:05:00+00:00,scheduled
+Spring Airlines,6537,Shanghai Pudong International,Fukuoka,PVG,FUK,2025-07-30 13:50:00+00:00,2025-07-30 17:00:00+00:00,scheduled
+FedEx,468,Hopkins International,Memphis International,CLE,MEM,2025-07-30 07:41:00+00:00,2025-07-30 08:11:00+00:00,scheduled
+Delta Air Lines,3249,Hopkins International,Salt Lake City International,CLE,SLC,2025-07-30 07:35:00+00:00,2025-07-30 09:40:00+00:00,scheduled
+Korean Air,3340,Hopkins International,Salt Lake City International,CLE,SLC,2025-07-30 07:35:00+00:00,2025-07-30 09:40:00+00:00,scheduled
+United Airlines,700,Hopkins International,San Francisco International,CLE,SFO,2025-07-30 07:31:00+00:00,2025-07-30 09:40:00+00:00,scheduled
+Virgin Australia,8488,Hopkins International,San Francisco International,CLE,SFO,2025-07-30 07:31:00+00:00,2025-07-30 09:40:00+00:00,scheduled
+Turkish Airlines,9207,Narita International Airport,Hong Kong International,NRT,HKG,2025-07-30 15:55:00+00:00,2025-07-30 20:00:00+00:00,scheduled
+Zipair,22,Narita International Airport,Vancouver International,NRT,YVR,2025-07-30 15:50:00+00:00,2025-07-30 08:35:00+00:00,scheduled
+Korean Air,2130,Narita International Airport,Gimhae,NRT,PUS,2025-07-30 15:50:00+00:00,2025-07-30 18:00:00+00:00,scheduled
+Japan Airlines,5231,Narita International Airport,Gimhae,NRT,PUS,2025-07-30 15:50:00+00:00,2025-07-30 18:00:00+00:00,scheduled
+Hong Kong Express,849,Narita International Airport,Hong Kong International,NRT,HKG,2025-07-30 15:45:00+00:00,2025-07-30 19:40:00+00:00,scheduled
+Cathay Pacific,5849,Narita International Airport,Hong Kong International,NRT,HKG,2025-07-30 15:45:00+00:00,2025-07-30 19:40:00+00:00,scheduled
+Peach Aviation,575,Narita International Airport,Chitose,NRT,CTS,2025-07-30 15:45:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Jetstar Japan,331,Narita International Airport,Naha,NRT,OKA,2025-07-30 15:45:00+00:00,2025-07-30 18:50:00+00:00,scheduled
+Qantas,5963,Narita International Airport,Naha,NRT,OKA,2025-07-30 15:45:00+00:00,2025-07-30 18:50:00+00:00,scheduled
+Japan Airlines,6119,Narita International Airport,Naha,NRT,OKA,2025-07-30 15:45:00+00:00,2025-07-30 18:50:00+00:00,scheduled
+Cathay Pacific,451,Narita International Airport,Taiwan Taoyuan International (Chiang Kai Shek International),NRT,TPE,2025-07-30 15:45:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Japan Airlines,7045,Narita International Airport,Taiwan Taoyuan International (Chiang Kai Shek International),NRT,TPE,2025-07-30 15:45:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Xiamen Airlines,810,Narita International Airport,Fuzhou,NRT,FOC,2025-07-30 15:30:00+00:00,2025-07-30 18:30:00+00:00,active
+Japan Airlines,5097,Narita International Airport,Fuzhou,NRT,FOC,2025-07-30 15:30:00+00:00,2025-07-30 18:30:00+00:00,active
+China Eastern Airlines,7292,Narita International Airport,Shanghai Pudong International,NRT,PVG,2025-07-30 15:20:00+00:00,2025-07-30 18:15:00+00:00,active
+Hawaiian Airlines,3418,Brisbane International,Sydney Kingsford Smith Airport,BNE,SYD,2025-07-30 11:25:00+00:00,2025-07-30 13:00:00+00:00,landed
+Air New Zealand,1721,Brisbane International,Sydney Kingsford Smith Airport,BNE,SYD,2025-07-30 11:25:00+00:00,2025-07-30 13:00:00+00:00,landed
+Emirates,5521,Brisbane International,Sydney Kingsford Smith Airport,BNE,SYD,2025-07-30 11:25:00+00:00,2025-07-30 13:00:00+00:00,landed
+China Southern Airlines,7552,Brisbane International,Sydney Kingsford Smith Airport,BNE,SYD,2025-07-30 11:25:00+00:00,2025-07-30 13:00:00+00:00,landed
+Alitalia,5219,Islamabad International,King Abdulaziz International,ISB,JED,2025-07-30 03:00:00+00:00,2025-07-30 06:10:00+00:00,landed
+Airblue,170,Quaid-e-azam International,King Abdulaziz International,KHI,JED,2025-07-30 03:40:00+00:00,2025-07-30 06:05:00+00:00,landed
+Saudia,1645,Abha,King Abdulaziz International,AHB,JED,2025-07-30 04:45:00+00:00,2025-07-30 06:05:00+00:00,landed
+American Airlines,6048,Albert J Ellis,Charlotte Douglas,OAJ,CLT,2025-07-30 06:59:00+00:00,2025-07-30 08:20:00+00:00,scheduled
+Delta Air Lines,4888,Albert J Ellis,Hartsfield-jackson Atlanta International,OAJ,ATL,2025-07-30 05:50:00+00:00,2025-07-30 07:24:00+00:00,scheduled
+WestJet,8176,Albert J Ellis,Hartsfield-jackson Atlanta International,OAJ,ATL,2025-07-30 05:50:00+00:00,2025-07-30 07:24:00+00:00,scheduled
+KLM,6327,Albert J Ellis,Hartsfield-jackson Atlanta International,OAJ,ATL,2025-07-30 05:50:00+00:00,2025-07-30 07:24:00+00:00,scheduled
+Korean Air,6980,Albert J Ellis,Hartsfield-jackson Atlanta International,OAJ,ATL,2025-07-30 05:50:00+00:00,2025-07-30 07:24:00+00:00,scheduled
+Air China LTD,3453,Beijing Capital International,Wuxi,PEK,WUX,2025-07-30 14:00:00+00:00,2025-07-30 16:00:00+00:00,scheduled
+Japan Airlines,323,Haneda Airport,Fukuoka,HND,FUK,2025-07-30 15:15:00+00:00,2025-07-30 17:05:00+00:00,scheduled
+AlphaSky,7447,Haneda Airport,Fukuoka,HND,FUK,2025-07-30 15:15:00+00:00,2025-07-30 17:05:00+00:00,scheduled
+Hawaiian Airlines,5156,Haneda Airport,Fukuoka,HND,FUK,2025-07-30 15:15:00+00:00,2025-07-30 17:05:00+00:00,scheduled
+Spring Airlines,6537,Shanghai Pudong International,Fukuoka,PVG,FUK,2025-07-30 13:50:00+00:00,2025-07-30 17:00:00+00:00,scheduled
+ANA,1277,Fukuoka,Chitose,FUK,CTS,2025-07-30 08:00:00+00:00,2025-07-30 10:30:00+00:00,active
+ANA,1203,Fukuoka,Naha,FUK,OKA,2025-07-30 08:00:00+00:00,2025-07-30 09:40:00+00:00,active
+ANA,242,Fukuoka,Haneda Airport,FUK,HND,2025-07-30 07:55:00+00:00,2025-07-30 09:40:00+00:00,active
+Lufthansa,4877,Fukuoka,Haneda Airport,FUK,HND,2025-07-30 07:55:00+00:00,2025-07-30 09:40:00+00:00,active
+LATAM Airlines,1786,Fuerteventura,Barajas,FUE,MAD,2025-07-30 07:00:00+00:00,2025-07-30 10:40:00+00:00,active
+Malaysia Airlines,4201,Doha International,Franjo Tudman International Airport,DOH,ZAG,2025-07-30 09:05:00+00:00,2025-07-30 14:00:00+00:00,scheduled
+SunExpress,655,Pristina International,Antalya,PRN,AYT,2025-07-30 02:40:00+00:00,2025-07-30 05:30:00+00:00,landed
+Air Canada,178,Edmonton International Airport,Lester B. Pearson International,YEG,YYZ,2025-07-30 00:55:00+00:00,2025-07-30 06:40:00+00:00,scheduled
+EgyptAir,9616,Edmonton International Airport,Lester B. Pearson International,YEG,YYZ,2025-07-30 00:55:00+00:00,2025-07-30 06:40:00+00:00,scheduled
+SA AVIANCA,6997,Edmonton International Airport,Lester B. Pearson International,YEG,YYZ,2025-07-30 00:55:00+00:00,2025-07-30 06:40:00+00:00,scheduled
+Air Canada,7773,Pierre Elliott Trudeau International,Lester B. Pearson International,YUL,YYZ,2025-07-30 05:00:00+00:00,2025-07-30 06:25:00+00:00,scheduled
+SA AVIANCA,2857,Pierre Elliott Trudeau International,Lester B. Pearson International,YUL,YYZ,2025-07-30 05:00:00+00:00,2025-07-30 06:25:00+00:00,scheduled
+Air Austral,8036,Charles De Gaulle,Brnik,CDG,LJU,2025-07-30 09:45:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Kenya Airways,3812,Charles De Gaulle,Brnik,CDG,LJU,2025-07-30 09:45:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+SriLankan Airlines,182,Tribhuvan International,Bandaranaike International,KTM,CMB,2025-07-30 13:35:00+00:00,2025-07-30 17:00:00+00:00,scheduled
+Malaysia Airlines,4590,Ninoy Aquino International,Tagbilaran,MNL,TAG,2025-07-30 08:55:00+00:00,2025-07-30 10:25:00+00:00,landed
+China Express Air,2644,,Ulanqab Jining Airport,RLK,UCB,2025-07-30 20:05:00+00:00,2025-07-30 21:15:00+00:00,scheduled
+Ryanair,8971,Papola Casale,Punta Raisi,BDS,PMO,2025-07-30 14:00:00+00:00,2025-07-30 15:15:00+00:00,scheduled
+Sichuan Airlines,4784,Xiangfan,Wenzhou,XFN,WNZ,2025-07-30 17:05:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+Tibet Airlines,2526,Xiangfan,Wenzhou,XFN,WNZ,2025-07-30 17:05:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+China Southern Airlines,4876,Xiangfan,Wenzhou,XFN,WNZ,2025-07-30 17:05:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+Xiamen Airlines,5925,Xiangfan,Wenzhou,XFN,WNZ,2025-07-30 17:05:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+Kunming Airlines,8225,Xiangfan,Nanjing Lukou International Airport,XFN,NKG,2025-07-30 17:00:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Tibet Airlines,8225,Xiangfan,Nanjing Lukou International Airport,XFN,NKG,2025-07-30 17:00:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Air China LTD,5799,Xiangfan,Nanjing Lukou International Airport,XFN,NKG,2025-07-30 17:00:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Shenzhen Airlines,5525,Xiangfan,Nanjing Lukou International Airport,XFN,NKG,2025-07-30 17:00:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Loong Air,8890,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Hainan Airlines,2890,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+China Southern Airlines,4856,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Sichuan Airlines,4768,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+China Express Air,9514,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Xiamen Airlines,5905,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Tibet Airlines,2506,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Chengdu Airlines,7600,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Loong Air,8792,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+China Southern Airlines,4822,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Sichuan Airlines,4738,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+China Express Air,6440,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Xiamen Airlines,5871,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Tibet Airlines,2472,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Chengdu Airlines,7566,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Loong Air,8886,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+China Southern Airlines,4852,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+Sichuan Airlines,4764,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+China Express Air,6392,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+Xiamen Airlines,5901,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+China Southern Airlines,3445,Zhanjiang,Fenghuang International (Phoenix International),ZHA,SYX,2025-07-30 17:50:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Urumqi Airlines,3527,Zhanjiang,Xianyang,ZHA,XIY,2025-07-30 17:30:00+00:00,2025-07-30 20:15:00+00:00,scheduled
+Caspian Airlines,20,Mehrabad (Qualeh Morgeh),Ahwaz,THR,AWZ,2025-07-30 05:30:00+00:00,2025-07-30 06:30:00+00:00,unknown
+Hainan Airlines,4521,Zhanjiang,Xianyang,ZHA,XIY,2025-07-30 17:30:00+00:00,2025-07-30 20:15:00+00:00,scheduled
+Iran Airtour,964,Mehrabad (Qualeh Morgeh),Mashad,THR,MHD,2025-07-30 05:25:00+00:00,2025-07-30 07:00:00+00:00,unknown
+China Eastern Airlines,6410,Zhanjiang,Shanghai,ZHA,HFE,2025-07-30 17:15:00+00:00,2025-07-30 19:45:00+00:00,scheduled
+Delta Air Lines,7796,Naha,Seoul (Incheon),OKA,ICN,2025-07-30 13:05:00+00:00,2025-07-30 15:25:00+00:00,active
+Japan Airlines,5275,Naha,Seoul (Incheon),OKA,ICN,2025-07-30 13:05:00+00:00,2025-07-30 15:25:00+00:00,active
+KLM,9165,Naha,Seoul (Incheon),OKA,ICN,2025-07-30 13:05:00+00:00,2025-07-30 15:25:00+00:00,active
+TAP Air Portugal,6384,El Prat De Llobregat,Internacional Benito Juarez,BCN,MEX,2025-07-30 11:05:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Myanmar Airways International,8323,Mingaladon,Dawe,RGN,TVY,2025-07-30 14:40:00+00:00,2025-07-30 15:55:00+00:00,scheduled
+Myanmar Airways International,352,Mingaladon,Suvarnabhumi International,RGN,BKK,2025-07-30 14:40:00+00:00,2025-07-30 16:30:00+00:00,scheduled
+IndiGo,271,Netaji Subhas Chandra,Borjhar,CCU,GAU,2025-07-30 05:55:00+00:00,2025-07-30 07:10:00+00:00,landed
+Maldivian,102,Malé International Airport,Gan Airport,MLE,GAN,2025-07-30 12:05:00+00:00,2025-07-30 13:40:00+00:00,scheduled
+Alliance Airlines,7871,Telfer,Perth International,TEF,PER,2025-07-30 14:00:00+00:00,2025-07-30 16:04:00+00:00,active
+Alliance Airlines,879,Telfer,Perth International,TEF,PER,2025-07-30 17:20:00+00:00,2025-07-30 19:30:00+00:00,scheduled
+China Southern Airlines,7195,Shuangliu,Yichang,CTU,YIH,2025-07-30 07:50:00+00:00,2025-07-30 09:20:00+00:00,active
+SunExpress,655,Pristina International,Antalya,PRN,AYT,2025-07-30 02:40:00+00:00,2025-07-30 05:30:00+00:00,landed
+Air Canada,178,Edmonton International Airport,Lester B. Pearson International,YEG,YYZ,2025-07-30 00:55:00+00:00,2025-07-30 06:40:00+00:00,scheduled
+EgyptAir,9616,Edmonton International Airport,Lester B. Pearson International,YEG,YYZ,2025-07-30 00:55:00+00:00,2025-07-30 06:40:00+00:00,scheduled
+SA AVIANCA,6997,Edmonton International Airport,Lester B. Pearson International,YEG,YYZ,2025-07-30 00:55:00+00:00,2025-07-30 06:40:00+00:00,scheduled
+Air Canada,7773,Pierre Elliott Trudeau International,Lester B. Pearson International,YUL,YYZ,2025-07-30 05:00:00+00:00,2025-07-30 06:25:00+00:00,scheduled
+SA AVIANCA,2857,Pierre Elliott Trudeau International,Lester B. Pearson International,YUL,YYZ,2025-07-30 05:00:00+00:00,2025-07-30 06:25:00+00:00,scheduled
+Air Austral,8036,Charles De Gaulle,Brnik,CDG,LJU,2025-07-30 09:45:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Kenya Airways,3812,Charles De Gaulle,Brnik,CDG,LJU,2025-07-30 09:45:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+SriLankan Airlines,182,Tribhuvan International,Bandaranaike International,KTM,CMB,2025-07-30 13:35:00+00:00,2025-07-30 17:00:00+00:00,scheduled
+Malaysia Airlines,4590,Ninoy Aquino International,Tagbilaran,MNL,TAG,2025-07-30 08:55:00+00:00,2025-07-30 10:25:00+00:00,landed
+China Express Air,2644,,Ulanqab Jining Airport,RLK,UCB,2025-07-30 20:05:00+00:00,2025-07-30 21:15:00+00:00,scheduled
+Ryanair,8971,Papola Casale,Punta Raisi,BDS,PMO,2025-07-30 14:00:00+00:00,2025-07-30 15:15:00+00:00,scheduled
+Sichuan Airlines,4784,Xiangfan,Wenzhou,XFN,WNZ,2025-07-30 17:05:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+Tibet Airlines,2526,Xiangfan,Wenzhou,XFN,WNZ,2025-07-30 17:05:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+China Southern Airlines,4876,Xiangfan,Wenzhou,XFN,WNZ,2025-07-30 17:05:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+Xiamen Airlines,5925,Xiangfan,Wenzhou,XFN,WNZ,2025-07-30 17:05:00+00:00,2025-07-30 19:20:00+00:00,scheduled
+Kunming Airlines,8225,Xiangfan,Nanjing Lukou International Airport,XFN,NKG,2025-07-30 17:00:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Tibet Airlines,8225,Xiangfan,Nanjing Lukou International Airport,XFN,NKG,2025-07-30 17:00:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Air China LTD,5799,Xiangfan,Nanjing Lukou International Airport,XFN,NKG,2025-07-30 17:00:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Shenzhen Airlines,5525,Xiangfan,Nanjing Lukou International Airport,XFN,NKG,2025-07-30 17:00:00+00:00,2025-07-30 18:25:00+00:00,scheduled
+Loong Air,8890,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Hainan Airlines,2890,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+China Southern Airlines,4856,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Sichuan Airlines,4768,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+China Express Air,9514,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Xiamen Airlines,5905,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Tibet Airlines,2506,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Chengdu Airlines,7600,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Loong Air,8792,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+China Southern Airlines,4822,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Sichuan Airlines,4738,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+China Express Air,6440,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Xiamen Airlines,5871,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Tibet Airlines,2472,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Chengdu Airlines,7566,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Loong Air,8886,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+China Southern Airlines,4852,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+Sichuan Airlines,4764,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+China Express Air,6392,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+Xiamen Airlines,5901,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+China Southern Airlines,3445,Zhanjiang,Fenghuang International (Phoenix International),ZHA,SYX,2025-07-30 17:50:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Urumqi Airlines,3527,Zhanjiang,Xianyang,ZHA,XIY,2025-07-30 17:30:00+00:00,2025-07-30 20:15:00+00:00,scheduled
+Caspian Airlines,20,Mehrabad (Qualeh Morgeh),Ahwaz,THR,AWZ,2025-07-30 05:30:00+00:00,2025-07-30 06:30:00+00:00,unknown
+Hainan Airlines,4521,Zhanjiang,Xianyang,ZHA,XIY,2025-07-30 17:30:00+00:00,2025-07-30 20:15:00+00:00,scheduled
+Iran Airtour,964,Mehrabad (Qualeh Morgeh),Mashad,THR,MHD,2025-07-30 05:25:00+00:00,2025-07-30 07:00:00+00:00,unknown
+China Eastern Airlines,6410,Zhanjiang,Shanghai,ZHA,HFE,2025-07-30 17:15:00+00:00,2025-07-30 19:45:00+00:00,scheduled
+Delta Air Lines,7796,Naha,Seoul (Incheon),OKA,ICN,2025-07-30 13:05:00+00:00,2025-07-30 15:25:00+00:00,active
+Japan Airlines,5275,Naha,Seoul (Incheon),OKA,ICN,2025-07-30 13:05:00+00:00,2025-07-30 15:25:00+00:00,active
+KLM,9165,Naha,Seoul (Incheon),OKA,ICN,2025-07-30 13:05:00+00:00,2025-07-30 15:25:00+00:00,active
+TAP Air Portugal,6384,El Prat De Llobregat,Internacional Benito Juarez,BCN,MEX,2025-07-30 11:05:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Myanmar Airways International,8323,Mingaladon,Dawe,RGN,TVY,2025-07-30 14:40:00+00:00,2025-07-30 15:55:00+00:00,scheduled
+Myanmar Airways International,352,Mingaladon,Suvarnabhumi International,RGN,BKK,2025-07-30 14:40:00+00:00,2025-07-30 16:30:00+00:00,scheduled
+IndiGo,271,Netaji Subhas Chandra,Borjhar,CCU,GAU,2025-07-30 05:55:00+00:00,2025-07-30 07:10:00+00:00,landed
+Maldivian,102,Malé International Airport,Gan Airport,MLE,GAN,2025-07-30 12:05:00+00:00,2025-07-30 13:40:00+00:00,scheduled
+Alliance Airlines,7871,Telfer,Perth International,TEF,PER,2025-07-30 14:00:00+00:00,2025-07-30 16:04:00+00:00,active
+Alliance Airlines,879,Telfer,Perth International,TEF,PER,2025-07-30 17:20:00+00:00,2025-07-30 19:30:00+00:00,scheduled
+China Southern Airlines,7195,Shuangliu,Yichang,CTU,YIH,2025-07-30 07:50:00+00:00,2025-07-30 09:20:00+00:00,active
+Tibet Airlines,5195,Shuangliu,Yichang,CTU,YIH,2025-07-30 07:50:00+00:00,2025-07-30 09:20:00+00:00,active
+ANA,52,Chitose,Haneda Airport,CTS,HND,2025-07-30 08:30:00+00:00,2025-07-30 10:05:00+00:00,active
+Ryanair,4215,Blagnac,Son Sant Joan Airport,TLS,PMI,2025-07-30 12:05:00+00:00,2025-07-30 13:20:00+00:00,scheduled
+Air France,6111,Blagnac,Orly,TLS,ORY,2025-07-30 12:00:00+00:00,2025-07-30 13:20:00+00:00,scheduled
+Air France,,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:10:00+00:00,scheduled
+Air France,7415,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+SAS,9891,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Delta Air Lines,8534,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Aeromexico,5824,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Turkish Airlines,1804,Blagnac,Istanbul Airport,TLS,IST,2025-07-30 11:50:00+00:00,2025-07-30 16:30:00+00:00,scheduled
+IndiGo,4184,Blagnac,Istanbul Airport,TLS,IST,2025-07-30 11:50:00+00:00,2025-07-30 16:30:00+00:00,scheduled
+KLM,1450,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+SAS,6757,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+China Eastern Airlines,1568,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Kenya Airways,1300,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Delta Air Lines,9248,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Air France,3140,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Air France,7403,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Singapore Airlines,1889,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+SAS,9887,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+TAROM,9574,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+China Eastern Airlines,1542,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Air Mauritius,9135,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Gol,5070,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Delta Air Lines,8355,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Alitalia,2569,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Aerolineas Argentinas,7829,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Aeromexico,5899,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+IndiGo,594,Raipur,Chhatrapati Shivaji International (Sahar International),RPR,BOM,2025-07-30 08:45:00+00:00,2025-07-30 10:40:00+00:00,active
+Hainan Airlines,3215,Xianyang,Yulin,XIY,UYN,2025-07-30 07:55:00+00:00,2025-07-30 09:00:00+00:00,active
+easyJet,323,Edinburgh,Aldergrove International Airport,EDI,BFS,2025-07-30 07:20:00+00:00,2025-07-30 08:10:00+00:00,scheduled
+Xiamen Airlines,3243,Tianhe International,Jinzhou,WUH,JNZ,2025-07-30 14:20:00+00:00,2025-07-30 16:55:00+00:00,scheduled
+Amapola,662,Arlanda,Gallivare,ARN,GEV,2025-07-30 10:40:00+00:00,2025-07-30 12:40:00+00:00,scheduled
+South African Airlink,143,Oliver Reginald Tambo International (Jan Smuts International),Rooikop,JNB,WVB,2025-07-30 14:05:00+00:00,2025-07-30 16:40:00+00:00,scheduled
+Air Zimbabwe,468,Oliver Reginald Tambo International (Jan Smuts International),Harare,JNB,HRE,2025-07-30 14:00:00+00:00,2025-07-30 15:45:00+00:00,scheduled
+Proflight Zambia,25,Oliver Reginald Tambo International (Jan Smuts International),Lusaka,JNB,LUN,2025-07-30 14:00:00+00:00,2025-07-30 16:00:00+00:00,scheduled
+South African Airlink,272,Oliver Reginald Tambo International (Jan Smuts International),Maputo International,JNB,MPM,2025-07-30 13:55:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Qatar Airways,1364,Oliver Reginald Tambo International (Jan Smuts International),Doha International,JNB,DOH,2025-07-30 13:55:00+00:00,2025-07-30 23:15:00+00:00,scheduled
+Singapore Airlines,479,Oliver Reginald Tambo International (Jan Smuts International),Singapore Changi,JNB,SIN,2025-07-30 13:45:00+00:00,2025-07-31 06:10:00+00:00,scheduled
+South African Airways,555,Oliver Reginald Tambo International (Jan Smuts International),Durban International,JNB,DUR,2025-07-30 13:40:00+00:00,2025-07-30 14:50:00+00:00,scheduled
+South African Airlink,839,Oliver Reginald Tambo International (Jan Smuts International),Kruger Mpumalanga International Airport,JNB,MQP,2025-07-30 13:35:00+00:00,2025-07-30 14:30:00+00:00,scheduled
+Safair,669,Oliver Reginald Tambo International (Jan Smuts International),Durban International,JNB,DUR,2025-07-30 13:35:00+00:00,2025-07-30 14:45:00+00:00,scheduled
+Qatar Airways,8700,Oliver Reginald Tambo International (Jan Smuts International),Jomo Kenyatta International,JNB,NBO,2025-07-30 13:35:00+00:00,2025-07-30 18:35:00+00:00,scheduled
+Tibet Airlines,2506,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Chengdu Airlines,7600,Xiangfan,Guangzhou Baiyun International,XFN,CAN,2025-07-30 17:00:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Loong Air,8792,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+China Southern Airlines,4822,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Sichuan Airlines,4738,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+China Express Air,6440,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Xiamen Airlines,5871,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Tibet Airlines,2472,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Chengdu Airlines,7566,Xiangfan,Lishe International Airport,XFN,NGB,2025-07-30 15:40:00+00:00,2025-07-30 17:35:00+00:00,scheduled
+Loong Air,8886,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+China Southern Airlines,4852,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+Sichuan Airlines,4764,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+China Express Air,6392,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+Xiamen Airlines,5901,Xiangfan,Hangzhou,XFN,HGH,2025-07-30 15:25:00+00:00,2025-07-30 17:15:00+00:00,scheduled
+China Southern Airlines,3445,Zhanjiang,Fenghuang International (Phoenix International),ZHA,SYX,2025-07-30 17:50:00+00:00,2025-07-30 19:00:00+00:00,scheduled
+Urumqi Airlines,3527,Zhanjiang,Xianyang,ZHA,XIY,2025-07-30 17:30:00+00:00,2025-07-30 20:15:00+00:00,scheduled
+Caspian Airlines,20,Mehrabad (Qualeh Morgeh),Ahwaz,THR,AWZ,2025-07-30 05:30:00+00:00,2025-07-30 06:30:00+00:00,unknown
+Hainan Airlines,4521,Zhanjiang,Xianyang,ZHA,XIY,2025-07-30 17:30:00+00:00,2025-07-30 20:15:00+00:00,scheduled
+Iran Airtour,964,Mehrabad (Qualeh Morgeh),Mashad,THR,MHD,2025-07-30 05:25:00+00:00,2025-07-30 07:00:00+00:00,unknown
+China Eastern Airlines,6410,Zhanjiang,Shanghai,ZHA,HFE,2025-07-30 17:15:00+00:00,2025-07-30 19:45:00+00:00,scheduled
+Delta Air Lines,7796,Naha,Seoul (Incheon),OKA,ICN,2025-07-30 13:05:00+00:00,2025-07-30 15:25:00+00:00,active
+Japan Airlines,5275,Naha,Seoul (Incheon),OKA,ICN,2025-07-30 13:05:00+00:00,2025-07-30 15:25:00+00:00,active
+KLM,9165,Naha,Seoul (Incheon),OKA,ICN,2025-07-30 13:05:00+00:00,2025-07-30 15:25:00+00:00,active
+TAP Air Portugal,6384,El Prat De Llobregat,Internacional Benito Juarez,BCN,MEX,2025-07-30 11:05:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Myanmar Airways International,8323,Mingaladon,Dawe,RGN,TVY,2025-07-30 14:40:00+00:00,2025-07-30 15:55:00+00:00,scheduled
+Myanmar Airways International,352,Mingaladon,Suvarnabhumi International,RGN,BKK,2025-07-30 14:40:00+00:00,2025-07-30 16:30:00+00:00,scheduled
+IndiGo,271,Netaji Subhas Chandra,Borjhar,CCU,GAU,2025-07-30 05:55:00+00:00,2025-07-30 07:10:00+00:00,landed
+Maldivian,102,Malé International Airport,Gan Airport,MLE,GAN,2025-07-30 12:05:00+00:00,2025-07-30 13:40:00+00:00,scheduled
+Alliance Airlines,7871,Telfer,Perth International,TEF,PER,2025-07-30 14:00:00+00:00,2025-07-30 16:04:00+00:00,active
+Alliance Airlines,879,Telfer,Perth International,TEF,PER,2025-07-30 17:20:00+00:00,2025-07-30 19:30:00+00:00,scheduled
+China Southern Airlines,7195,Shuangliu,Yichang,CTU,YIH,2025-07-30 07:50:00+00:00,2025-07-30 09:20:00+00:00,active
+Tibet Airlines,5195,Shuangliu,Yichang,CTU,YIH,2025-07-30 07:50:00+00:00,2025-07-30 09:20:00+00:00,active
+ANA,52,Chitose,Haneda Airport,CTS,HND,2025-07-30 08:30:00+00:00,2025-07-30 10:05:00+00:00,active
+Ryanair,4215,Blagnac,Son Sant Joan Airport,TLS,PMI,2025-07-30 12:05:00+00:00,2025-07-30 13:20:00+00:00,scheduled
+Air France,6111,Blagnac,Orly,TLS,ORY,2025-07-30 12:00:00+00:00,2025-07-30 13:20:00+00:00,scheduled
+Air France,,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:10:00+00:00,scheduled
+Air France,7415,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+SAS,9891,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Delta Air Lines,8534,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Aeromexico,5824,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:55:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Turkish Airlines,1804,Blagnac,Istanbul Airport,TLS,IST,2025-07-30 11:50:00+00:00,2025-07-30 16:30:00+00:00,scheduled
+IndiGo,4184,Blagnac,Istanbul Airport,TLS,IST,2025-07-30 11:50:00+00:00,2025-07-30 16:30:00+00:00,scheduled
+KLM,1450,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+SAS,6757,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+China Eastern Airlines,1568,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Kenya Airways,1300,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Delta Air Lines,9248,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Air France,3140,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Air France,7403,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Singapore Airlines,1889,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+SAS,9887,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+TAROM,9574,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+China Eastern Airlines,1542,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Air Mauritius,9135,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Gol,5070,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Delta Air Lines,8355,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Alitalia,2569,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Aerolineas Argentinas,7829,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Aeromexico,5899,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+IndiGo,594,Raipur,Chhatrapati Shivaji International (Sahar International),RPR,BOM,2025-07-30 08:45:00+00:00,2025-07-30 10:40:00+00:00,active
+Hainan Airlines,3215,Xianyang,Yulin,XIY,UYN,2025-07-30 07:55:00+00:00,2025-07-30 09:00:00+00:00,active
+easyJet,323,Edinburgh,Aldergrove International Airport,EDI,BFS,2025-07-30 07:20:00+00:00,2025-07-30 08:10:00+00:00,scheduled
+Xiamen Airlines,3243,Tianhe International,Jinzhou,WUH,JNZ,2025-07-30 14:20:00+00:00,2025-07-30 16:55:00+00:00,scheduled
+Amapola,662,Arlanda,Gallivare,ARN,GEV,2025-07-30 10:40:00+00:00,2025-07-30 12:40:00+00:00,scheduled
+South African Airlink,143,Oliver Reginald Tambo International (Jan Smuts International),Rooikop,JNB,WVB,2025-07-30 14:05:00+00:00,2025-07-30 16:40:00+00:00,scheduled
+Air Zimbabwe,468,Oliver Reginald Tambo International (Jan Smuts International),Harare,JNB,HRE,2025-07-30 14:00:00+00:00,2025-07-30 15:45:00+00:00,scheduled
+Proflight Zambia,25,Oliver Reginald Tambo International (Jan Smuts International),Lusaka,JNB,LUN,2025-07-30 14:00:00+00:00,2025-07-30 16:00:00+00:00,scheduled
+South African Airlink,272,Oliver Reginald Tambo International (Jan Smuts International),Maputo International,JNB,MPM,2025-07-30 13:55:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Qatar Airways,1364,Oliver Reginald Tambo International (Jan Smuts International),Doha International,JNB,DOH,2025-07-30 13:55:00+00:00,2025-07-30 23:15:00+00:00,scheduled
+Singapore Airlines,479,Oliver Reginald Tambo International (Jan Smuts International),Singapore Changi,JNB,SIN,2025-07-30 13:45:00+00:00,2025-07-31 06:10:00+00:00,scheduled
+South African Airways,555,Oliver Reginald Tambo International (Jan Smuts International),Durban International,JNB,DUR,2025-07-30 13:40:00+00:00,2025-07-30 14:50:00+00:00,scheduled
+South African Airlink,839,Oliver Reginald Tambo International (Jan Smuts International),Kruger Mpumalanga International Airport,JNB,MQP,2025-07-30 13:35:00+00:00,2025-07-30 14:30:00+00:00,scheduled
+Safair,669,Oliver Reginald Tambo International (Jan Smuts International),Durban International,JNB,DUR,2025-07-30 13:35:00+00:00,2025-07-30 14:45:00+00:00,scheduled
+Qatar Airways,8700,Oliver Reginald Tambo International (Jan Smuts International),Jomo Kenyatta International,JNB,NBO,2025-07-30 13:35:00+00:00,2025-07-30 18:35:00+00:00,scheduled
+Safair,121,Oliver Reginald Tambo International (Jan Smuts International),Cape Town International,JNB,CPT,2025-07-30 13:25:00+00:00,2025-07-30 15:45:00+00:00,scheduled
+Emirates,762,Oliver Reginald Tambo International (Jan Smuts International),Dubai,JNB,DXB,2025-07-30 13:25:00+00:00,2025-07-30 23:40:00+00:00,scheduled
+South African Airlink,789,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Qatar Airways,5672,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Qantas,8299,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+SWISS,9158,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Lufthansa,6446,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+British Airways,6284,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Air France,7102,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Air Mauritius,852,Oliver Reginald Tambo International (Jan Smuts International),Sir Seewoosagur Ramgoolam International,JNB,MRU,2025-07-30 13:10:00+00:00,2025-07-30 19:10:00+00:00,scheduled
+S7 Airlines,5220,Magadan,Tolmachevo,GDX,OVB,2025-07-30 10:10:00+00:00,2025-07-30 11:35:00+00:00,landed
+S7 Airlines,5362,Novokuznetsk,Tolmachevo,NOZ,OVB,2025-07-30 10:25:00+00:00,2025-07-30 11:25:00+00:00,landed
+S7 Airlines,5304,Norilsk,Tolmachevo,NSK,OVB,2025-07-30 08:45:00+00:00,2025-07-30 11:25:00+00:00,landed
+S7 Airlines,5210,Blagoveschensk,Tolmachevo,BQS,OVB,2025-07-30 08:45:00+00:00,2025-07-30 11:25:00+00:00,landed
+S7 Airlines,5246,Neryungri,Tolmachevo,NER,OVB,2025-07-30 09:30:00+00:00,2025-07-30 11:20:00+00:00,landed
+Virgin Atlantic,6934,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+China Eastern Airlines,1648,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Kenya Airways,1420,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Delta Air Lines,9449,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Air Baltic,6033,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Air France,1565,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+WestJet,5107,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Virgin Atlantic,6619,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Saudia,6051,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+China Eastern Airlines,1764,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Air Mauritius,9335,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Air France,3140,Blagnac,Schiphol,TLS,AMS,2025-07-30 11:30:00+00:00,2025-07-30 13:25:00+00:00,scheduled
+Air France,7403,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Singapore Airlines,1889,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+SAS,9887,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+TAROM,9574,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+China Eastern Airlines,1542,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Air Mauritius,9135,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Gol,5070,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Delta Air Lines,8355,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Alitalia,2569,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Aerolineas Argentinas,7829,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Aeromexico,5899,Blagnac,Charles De Gaulle,TLS,CDG,2025-07-30 11:30:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+IndiGo,594,Raipur,Chhatrapati Shivaji International (Sahar International),RPR,BOM,2025-07-30 08:45:00+00:00,2025-07-30 10:40:00+00:00,active
+Hainan Airlines,3215,Xianyang,Yulin,XIY,UYN,2025-07-30 07:55:00+00:00,2025-07-30 09:00:00+00:00,active
+easyJet,323,Edinburgh,Aldergrove International Airport,EDI,BFS,2025-07-30 07:20:00+00:00,2025-07-30 08:10:00+00:00,scheduled
+Xiamen Airlines,3243,Tianhe International,Jinzhou,WUH,JNZ,2025-07-30 14:20:00+00:00,2025-07-30 16:55:00+00:00,scheduled
+Amapola,662,Arlanda,Gallivare,ARN,GEV,2025-07-30 10:40:00+00:00,2025-07-30 12:40:00+00:00,scheduled
+South African Airlink,143,Oliver Reginald Tambo International (Jan Smuts International),Rooikop,JNB,WVB,2025-07-30 14:05:00+00:00,2025-07-30 16:40:00+00:00,scheduled
+Air Zimbabwe,468,Oliver Reginald Tambo International (Jan Smuts International),Harare,JNB,HRE,2025-07-30 14:00:00+00:00,2025-07-30 15:45:00+00:00,scheduled
+Proflight Zambia,25,Oliver Reginald Tambo International (Jan Smuts International),Lusaka,JNB,LUN,2025-07-30 14:00:00+00:00,2025-07-30 16:00:00+00:00,scheduled
+South African Airlink,272,Oliver Reginald Tambo International (Jan Smuts International),Maputo International,JNB,MPM,2025-07-30 13:55:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Qatar Airways,1364,Oliver Reginald Tambo International (Jan Smuts International),Doha International,JNB,DOH,2025-07-30 13:55:00+00:00,2025-07-30 23:15:00+00:00,scheduled
+Singapore Airlines,479,Oliver Reginald Tambo International (Jan Smuts International),Singapore Changi,JNB,SIN,2025-07-30 13:45:00+00:00,2025-07-31 06:10:00+00:00,scheduled
+South African Airways,555,Oliver Reginald Tambo International (Jan Smuts International),Durban International,JNB,DUR,2025-07-30 13:40:00+00:00,2025-07-30 14:50:00+00:00,scheduled
+South African Airlink,839,Oliver Reginald Tambo International (Jan Smuts International),Kruger Mpumalanga International Airport,JNB,MQP,2025-07-30 13:35:00+00:00,2025-07-30 14:30:00+00:00,scheduled
+Safair,669,Oliver Reginald Tambo International (Jan Smuts International),Durban International,JNB,DUR,2025-07-30 13:35:00+00:00,2025-07-30 14:45:00+00:00,scheduled
+Qatar Airways,8700,Oliver Reginald Tambo International (Jan Smuts International),Jomo Kenyatta International,JNB,NBO,2025-07-30 13:35:00+00:00,2025-07-30 18:35:00+00:00,scheduled
+Safair,121,Oliver Reginald Tambo International (Jan Smuts International),Cape Town International,JNB,CPT,2025-07-30 13:25:00+00:00,2025-07-30 15:45:00+00:00,scheduled
+Emirates,762,Oliver Reginald Tambo International (Jan Smuts International),Dubai,JNB,DXB,2025-07-30 13:25:00+00:00,2025-07-30 23:40:00+00:00,scheduled
+South African Airlink,789,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Qatar Airways,5672,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Qantas,8299,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+SWISS,9158,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Lufthansa,6446,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+British Airways,6284,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Air France,7102,Oliver Reginald Tambo International (Jan Smuts International),Port Elizabeth,JNB,PLZ,2025-07-30 13:20:00+00:00,2025-07-30 15:05:00+00:00,scheduled
+Air Mauritius,852,Oliver Reginald Tambo International (Jan Smuts International),Sir Seewoosagur Ramgoolam International,JNB,MRU,2025-07-30 13:10:00+00:00,2025-07-30 19:10:00+00:00,scheduled
+S7 Airlines,5220,Magadan,Tolmachevo,GDX,OVB,2025-07-30 10:10:00+00:00,2025-07-30 11:35:00+00:00,landed
+S7 Airlines,5362,Novokuznetsk,Tolmachevo,NOZ,OVB,2025-07-30 10:25:00+00:00,2025-07-30 11:25:00+00:00,landed
+S7 Airlines,5304,Norilsk,Tolmachevo,NSK,OVB,2025-07-30 08:45:00+00:00,2025-07-30 11:25:00+00:00,landed
+S7 Airlines,5210,Blagoveschensk,Tolmachevo,BQS,OVB,2025-07-30 08:45:00+00:00,2025-07-30 11:25:00+00:00,landed
+S7 Airlines,5246,Neryungri,Tolmachevo,NER,OVB,2025-07-30 09:30:00+00:00,2025-07-30 11:20:00+00:00,landed
+Virgin Atlantic,6934,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+China Eastern Airlines,1648,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Kenya Airways,1420,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Delta Air Lines,9449,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Air Baltic,6033,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Air France,1565,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+WestJet,5107,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Virgin Atlantic,6619,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Saudia,6051,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+China Eastern Airlines,1764,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Air Mauritius,9335,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Kenya Airways,3127,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Gol,5105,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Delta Air Lines,8298,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Ryanair,667,Birmingham Airport,Dublin International,BHX,DUB,2025-07-30 05:55:00+00:00,2025-07-30 07:00:00+00:00,active
+Xiamen Airlines,8404,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+Hebei Airlines,8404,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+Juneyao Airlines,7169,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+China Express Air,9384,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+China Southern Airlines,4319,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+Sichuan Airlines,2514,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+Wizz Air,4224,,Bourgas,LUZ,BOJ,2025-07-30 13:10:00+00:00,2025-07-30 16:10:00+00:00,scheduled
+Norwegian,,Gardermoen,Sola,OSL,SVG,2025-07-30 01:50:00+00:00,2025-07-30 02:37:00+00:00,active
+SD Aviation,,Le Bourget,Findel,LBG,LUX,2025-07-30 12:25:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Uganda Airlines,123,Juba,Entebbe,JUB,EBB,2025-07-30 09:10:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Aer Lingus,3620,George Best Belfast City,Cardiff,BHD,CWL,2025-07-30 10:10:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+British Airways,8978,George Best Belfast City,Cardiff,BHD,CWL,2025-07-30 10:10:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+British Airways,1423,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Qatar Airways,5994,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Qantas,3548,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Kenya Airways,4095,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Iberia,3726,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Aer Lingus,8313,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+China Express Air,8319,Jinan,Shenzhen,TNA,SZX,2025-07-30 11:25:00+00:00,2025-07-30 14:20:00+00:00,active
+Tibet Airlines,3025,Jinan,Shenzhen,TNA,SZX,2025-07-30 11:25:00+00:00,2025-07-30 14:20:00+00:00,active
+Air China LTD,4619,Jinan,Shenzhen,TNA,SZX,2025-07-30 11:25:00+00:00,2025-07-30 14:20:00+00:00,active
+Neos,3865,Bergamo - Orio al Serio,Rabil,BGY,BVC,2025-07-30 10:40:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Ryanair,2698,Bergamo - Orio al Serio,Fertilia,BGY,AHO,2025-07-30 10:35:00+00:00,2025-07-30 11:55:00+00:00,scheduled
+Ryanair,5655,Bergamo - Orio al Serio,Son Sant Joan Airport,BGY,PMI,2025-07-30 10:30:00+00:00,2025-07-30 12:15:00+00:00,scheduled
+Ryanair,8421,Bergamo - Orio al Serio,Rinas Mother Teresa,BGY,TIA,2025-07-30 10:20:00+00:00,2025-07-30 12:05:00+00:00,scheduled
+Ryanair,4201,Bergamo - Orio al Serio,Diagoras,BGY,RHO,2025-07-30 10:10:00+00:00,2025-07-30 14:00:00+00:00,scheduled
+Ryanair,4845,Bergamo - Orio al Serio,Dublin International,BGY,DUB,2025-07-30 10:05:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Ryanair,3394,Bergamo - Orio al Serio,Santander,BGY,SDR,2025-07-30 10:05:00+00:00,2025-07-30 12:10:00+00:00,scheduled
+Ryanair,3645,Bergamo - Orio al Serio,Edinburgh,BGY,EDI,2025-07-30 09:55:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Ryanair,3535,Bergamo - Orio al Serio,John Paul II Balice International,BGY,KRK,2025-07-30 09:20:00+00:00,2025-07-30 11:05:00+00:00,scheduled
+Wizz Air,5018,Bergamo - Orio al Serio,Rinas Mother Teresa,BGY,TIA,2025-07-30 09:15:00+00:00,2025-07-30 11:00:00+00:00,scheduled
+Wizz Air,1432,Bergamo - Orio al Serio,Frederic Chopin,BGY,WAW,2025-07-30 09:00:00+00:00,2025-07-30 11:00:00+00:00,scheduled
+LATAM Airlines,1400,Cuenca,Mariscal Sucre,CUE,UIO,2025-07-30 06:56:00+00:00,2025-07-30 07:47:00+00:00,scheduled
+Korean Air,7352,Norfolk International Airport,John F Kennedy International,ORF,JFK,2025-07-30 07:00:00+00:00,2025-07-30 08:25:00+00:00,scheduled
+Aeromexico,4067,Norfolk International Airport,John F Kennedy International,ORF,JFK,2025-07-30 07:00:00+00:00,2025-07-30 08:25:00+00:00,scheduled
+American Airlines,5036,Norfolk International Airport,Charlotte Douglas,ORF,CLT,2025-07-30 06:51:00+00:00,2025-07-30 08:18:00+00:00,scheduled
+American Airlines,2274,Norfolk International Airport,Dallas/Fort Worth International,ORF,DFW,2025-07-30 06:49:00+00:00,2025-07-30 09:04:00+00:00,scheduled
+Qatar Airways,7639,Norfolk International Airport,Dallas/Fort Worth International,ORF,DFW,2025-07-30 06:49:00+00:00,2025-07-30 09:04:00+00:00,scheduled
+Japan Airlines,7289,Norfolk International Airport,Dallas/Fort Worth International,ORF,DFW,2025-07-30 06:49:00+00:00,2025-07-30 09:04:00+00:00,scheduled
+AlphaSky,4769,Norfolk International Airport,Dallas/Fort Worth International,ORF,DFW,2025-07-30 06:49:00+00:00,2025-07-30 09:04:00+00:00,scheduled
+Airsprint,510,Norfolk International Airport,Lester B. Pearson International,ORF,YYZ,2025-07-30 06:30:00+00:00,2025-07-30 08:14:00+00:00,scheduled
+United Airlines,6191,Norfolk International Airport,George Bush Intercontinental,ORF,IAH,2025-07-30 06:30:00+00:00,2025-07-30 08:47:00+00:00,scheduled
+Air New Zealand,2518,Norfolk International Airport,George Bush Intercontinental,ORF,IAH,2025-07-30 06:30:00+00:00,2025-07-30 08:47:00+00:00,scheduled
+S7 Airlines,5362,Novokuznetsk,Tolmachevo,NOZ,OVB,2025-07-30 10:25:00+00:00,2025-07-30 11:25:00+00:00,landed
+S7 Airlines,5304,Norilsk,Tolmachevo,NSK,OVB,2025-07-30 08:45:00+00:00,2025-07-30 11:25:00+00:00,landed
+S7 Airlines,5210,Blagoveschensk,Tolmachevo,BQS,OVB,2025-07-30 08:45:00+00:00,2025-07-30 11:25:00+00:00,landed
+S7 Airlines,5246,Neryungri,Tolmachevo,NER,OVB,2025-07-30 09:30:00+00:00,2025-07-30 11:20:00+00:00,landed
+Virgin Atlantic,6934,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+China Eastern Airlines,1648,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Kenya Airways,1420,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Delta Air Lines,9449,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Air Baltic,6033,Birmingham Airport,Schiphol,BHX,AMS,2025-07-30 06:00:00+00:00,2025-07-30 08:10:00+00:00,active
+Air France,1565,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+WestJet,5107,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Virgin Atlantic,6619,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Saudia,6051,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+China Eastern Airlines,1764,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Air Mauritius,9335,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Kenya Airways,3127,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Gol,5105,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Delta Air Lines,8298,Birmingham Airport,Charles De Gaulle,BHX,CDG,2025-07-30 06:00:00+00:00,2025-07-30 08:30:00+00:00,active
+Ryanair,667,Birmingham Airport,Dublin International,BHX,DUB,2025-07-30 05:55:00+00:00,2025-07-30 07:00:00+00:00,active
+Xiamen Airlines,8404,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+Hebei Airlines,8404,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+Juneyao Airlines,7169,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+China Express Air,9384,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+China Southern Airlines,4319,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+Sichuan Airlines,2514,Chongqing Jiangbei International,Xiamen,CKG,XMN,2025-07-30 11:10:00+00:00,2025-07-30 13:35:00+00:00,scheduled
+Wizz Air,4224,,Bourgas,LUZ,BOJ,2025-07-30 13:10:00+00:00,2025-07-30 16:10:00+00:00,scheduled
+Norwegian,,Gardermoen,Sola,OSL,SVG,2025-07-30 01:50:00+00:00,2025-07-30 02:37:00+00:00,active
+SD Aviation,,Le Bourget,Findel,LBG,LUX,2025-07-30 12:25:00+00:00,2025-07-30 13:00:00+00:00,scheduled
+Uganda Airlines,123,Juba,Entebbe,JUB,EBB,2025-07-30 09:10:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Aer Lingus,3620,George Best Belfast City,Cardiff,BHD,CWL,2025-07-30 10:10:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+British Airways,8978,George Best Belfast City,Cardiff,BHD,CWL,2025-07-30 10:10:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+British Airways,1423,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Qatar Airways,5994,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Qantas,3548,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Kenya Airways,4095,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Iberia,3726,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Aer Lingus,8313,George Best Belfast City,Heathrow,BHD,LHR,2025-07-30 10:00:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+China Express Air,8319,Jinan,Shenzhen,TNA,SZX,2025-07-30 11:25:00+00:00,2025-07-30 14:20:00+00:00,active
+Tibet Airlines,3025,Jinan,Shenzhen,TNA,SZX,2025-07-30 11:25:00+00:00,2025-07-30 14:20:00+00:00,active
+Air China LTD,4619,Jinan,Shenzhen,TNA,SZX,2025-07-30 11:25:00+00:00,2025-07-30 14:20:00+00:00,active
+Neos,3865,Bergamo - Orio al Serio,Rabil,BGY,BVC,2025-07-30 10:40:00+00:00,2025-07-30 14:05:00+00:00,scheduled
+Ryanair,2698,Bergamo - Orio al Serio,Fertilia,BGY,AHO,2025-07-30 10:35:00+00:00,2025-07-30 11:55:00+00:00,scheduled
+Ryanair,5655,Bergamo - Orio al Serio,Son Sant Joan Airport,BGY,PMI,2025-07-30 10:30:00+00:00,2025-07-30 12:15:00+00:00,scheduled
+Ryanair,8421,Bergamo - Orio al Serio,Rinas Mother Teresa,BGY,TIA,2025-07-30 10:20:00+00:00,2025-07-30 12:05:00+00:00,scheduled
+Ryanair,4201,Bergamo - Orio al Serio,Diagoras,BGY,RHO,2025-07-30 10:10:00+00:00,2025-07-30 14:00:00+00:00,scheduled
+Ryanair,4845,Bergamo - Orio al Serio,Dublin International,BGY,DUB,2025-07-30 10:05:00+00:00,2025-07-30 11:35:00+00:00,scheduled
+Ryanair,3394,Bergamo - Orio al Serio,Santander,BGY,SDR,2025-07-30 10:05:00+00:00,2025-07-30 12:10:00+00:00,scheduled
+Ryanair,3645,Bergamo - Orio al Serio,Edinburgh,BGY,EDI,2025-07-30 09:55:00+00:00,2025-07-30 11:30:00+00:00,scheduled
+Ryanair,3535,Bergamo - Orio al Serio,John Paul II Balice International,BGY,KRK,2025-07-30 09:20:00+00:00,2025-07-30 11:05:00+00:00,scheduled
+Wizz Air,5018,Bergamo - Orio al Serio,Rinas Mother Teresa,BGY,TIA,2025-07-30 09:15:00+00:00,2025-07-30 11:00:00+00:00,scheduled
+Wizz Air,1432,Bergamo - Orio al Serio,Frederic Chopin,BGY,WAW,2025-07-30 09:00:00+00:00,2025-07-30 11:00:00+00:00,scheduled
+LATAM Airlines,1400,Cuenca,Mariscal Sucre,CUE,UIO,2025-07-30 06:56:00+00:00,2025-07-30 07:47:00+00:00,scheduled
+Korean Air,7352,Norfolk International Airport,John F Kennedy International,ORF,JFK,2025-07-30 07:00:00+00:00,2025-07-30 08:25:00+00:00,scheduled
+Aeromexico,4067,Norfolk International Airport,John F Kennedy International,ORF,JFK,2025-07-30 07:00:00+00:00,2025-07-30 08:25:00+00:00,scheduled
+American Airlines,5036,Norfolk International Airport,Charlotte Douglas,ORF,CLT,2025-07-30 06:51:00+00:00,2025-07-30 08:18:00+00:00,scheduled
+American Airlines,2274,Norfolk International Airport,Dallas/Fort Worth International,ORF,DFW,2025-07-30 06:49:00+00:00,2025-07-30 09:04:00+00:00,scheduled
+Qatar Airways,7639,Norfolk International Airport,Dallas/Fort Worth International,ORF,DFW,2025-07-30 06:49:00+00:00,2025-07-30 09:04:00+00:00,scheduled
+Japan Airlines,7289,Norfolk International Airport,Dallas/Fort Worth International,ORF,DFW,2025-07-30 06:49:00+00:00,2025-07-30 09:04:00+00:00,scheduled
+AlphaSky,4769,Norfolk International Airport,Dallas/Fort Worth International,ORF,DFW,2025-07-30 06:49:00+00:00,2025-07-30 09:04:00+00:00,scheduled
+Airsprint,510,Norfolk International Airport,Lester B. Pearson International,ORF,YYZ,2025-07-30 06:30:00+00:00,2025-07-30 08:14:00+00:00,scheduled
+United Airlines,6191,Norfolk International Airport,George Bush Intercontinental,ORF,IAH,2025-07-30 06:30:00+00:00,2025-07-30 08:47:00+00:00,scheduled
+Air New Zealand,2518,Norfolk International Airport,George Bush Intercontinental,ORF,IAH,2025-07-30 06:30:00+00:00,2025-07-30 08:47:00+00:00,scheduled
+Delta Air Lines,1364,Norfolk International Airport,Hartsfield-jackson Atlanta International,ORF,ATL,2025-07-30 06:27:00+00:00,2025-07-30 08:15:00+00:00,scheduled
+LATAM Airlines,6603,Norfolk International Airport,Hartsfield-jackson Atlanta International,ORF,ATL,2025-07-30 06:27:00+00:00,2025-07-30 08:15:00+00:00,scheduled
+Korean Air,6990,Norfolk International Airport,Hartsfield-jackson Atlanta International,ORF,ATL,2025-07-30 06:27:00+00:00,2025-07-30 08:15:00+00:00,scheduled
+Tibet Airlines,3219,Qingdao,Changzhou,TAO,CZX,2025-07-30 13:00:00+00:00,2025-07-30 14:35:00+00:00,active
+Shanghai Airlines,9513,Shanghai Hongqiao International,Zhuhai Airport,SHA,ZUH,2025-07-30 17:15:00+00:00,2025-07-30 19:40:00+00:00,cancelled
+China Eastern Airlines,8531,Shanghai Hongqiao International,Zhuhai Airport,SHA,ZUH,2025-07-30 17:15:00+00:00,2025-07-30 19:40:00+00:00,cancelled
+Swiftair,8342,Cologne/bonn,Barajas,CGN,MAD,2025-07-30 02:15:00+00:00,2025-07-30 04:55:00+00:00,landed
+Qatar Airways,8098,Barajas,Bilbao,MAD,BIO,2025-07-30 07:25:00+00:00,2025-07-30 08:30:00+00:00,active
+SA AVIANCA,6110,Barajas,Bilbao,MAD,BIO,2025-07-30 07:25:00+00:00,2025-07-30 08:30:00+00:00,active
+Lion Air,637,Padangkemiling,Soekarno-Hatta International,BKS,CGK,2025-07-30 15:35:00+00:00,2025-07-30 16:50:00+00:00,scheduled
+Vueling,5014,Barajas,Bilbao,MAD,BIO,2025-07-30 07:25:00+00:00,2025-07-30 08:30:00+00:00,active
+LATAM Airlines,5414,Barajas,Bilbao,MAD,BIO,2025-07-30 07:25:00+00:00,2025-07-30 08:30:00+00:00,active
+,6203,Padangkemiling,Soekarno-Hatta International,BKS,CGK,2025-07-30 15:35:00+00:00,2025-07-30 16:50:00+00:00,scheduled
+TAAG,6448,Barajas,Bilbao,MAD,BIO,2025-07-30 07:25:00+00:00,2025-07-30 08:30:00+00:00,active
+Thai Vietjet Air,221,Muang Ubon,Suvarnabhumi International,UBP,BKK,2025-07-30 13:05:00+00:00,2025-07-30 14:10:00+00:00,scheduled
+Emirates,4536,Suvarnabhumi International,Trat,BKK,TDX,2025-07-30 11:40:00+00:00,2025-07-30 12:40:00+00:00,active
+China Airlines,9737,Suvarnabhumi International,Trat,BKK,TDX,2025-07-30 11:40:00+00:00,2025-07-30 12:40:00+00:00,active
+EVA Air,3963,Suvarnabhumi International,Trat,BKK,TDX,2025-07-30 11:40:00+00:00,2025-07-30 12:40:00+00:00,active
+Finnair,6901,Suvarnabhumi International,Trat,BKK,TDX,2025-07-30 11:40:00+00:00,2025-07-30 12:40:00+00:00,active
+Air France,8036,Suvarnabhumi International,Trat,BKK,TDX,2025-07-30 11:40:00+00:00,2025-07-30 12:40:00+00:00,active
+Bangkok Airways,133,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Oman Air,5879,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Vietnam Airlines,3915,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Turkish Airlines,4413,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Thai Airways International,5912,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Singapore Airlines,5405,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Qatar Airways,4319,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Qantas,3445,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Malaysia Airlines,4903,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+SWISS,4170,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+KLM,3749,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Air Astana,1133,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Hong Kong Airlines,3863,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Gulf Air,4400,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Emirates,4424,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+China Airlines,9815,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+EVA Air,3931,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
+Finnair,6277,Suvarnabhumi International,Koh Samui,BKK,USM,2025-07-30 11:40:00+00:00,2025-07-30 12:45:00+00:00,active
